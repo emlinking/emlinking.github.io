@@ -1,51 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Summer 2022 DREU Project Site – DREU 2022 - Eleanor Lin – Summer at the Vision, Language, and Learning Lab, Rice University</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="Summer at the Vision, Language, and Learning Lab, Rice University">
-    <meta property="og:description" content="Summer at the Vision, Language, and Learning Lab, Rice University" />
-    
-    <meta name="author" content="DREU 2022 - Eleanor Lin" />
-
-    
-    <meta property="og:title" content="Summer 2022 DREU Project Site" />
-    <meta property="twitter:title" content="Summer 2022 DREU Project Site" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="DREU 2022 - Eleanor Lin - Summer at the Vision, Language, and Learning Lab, Rice University" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://emlinking.github.io/images/IMG_0382.JPG" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">DREU 2022 - Eleanor Lin</a></h1>
-            <p class="site-description">Summer at the Vision, Language, and Learning Lab, Rice University</p>
-          </div>
-
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <ul id="markdown-toc">
+I"�<ul id="markdown-toc">
   <li><a href="#about-me" id="markdown-toc-about-me">About Me</a></li>
   <li><a href="#about-my-mentor" id="markdown-toc-about-my-mentor">About My Mentor</a></li>
   <li><a href="#about-my-project" id="markdown-toc-about-my-project">About My Project</a></li>
@@ -71,7 +24,7 @@
 <p>The goals/plans for this project are to:</p>
 <ol>
   <li>Use object detectors to identify difficult/complex images.</li>
-  <li>Determine if a text-based classifier is able to distinguish complex and non-complex images identified in (1), using the image descriptions/captions.</li>
+  <li>Determine if a text-based classifier on the images identified in (1) to determine if they can be distinguished</li>
 </ol>
 
 <p><a href="files/finalreport.pdf">My Final Report</a></p>
@@ -79,28 +32,4 @@
 <h2 id="my-blog">My Blog</h2>
 
 <p><a href="blog.html">My Blog</a></p>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:e.lin2@columbia.edu"><i class="svg-icon email"></i></a>
-
-
-
-
-
-
-
-
-
-
-
-        </footer>
-      </div>
-    </div>
-
-  </body>
-</html>
+:ET

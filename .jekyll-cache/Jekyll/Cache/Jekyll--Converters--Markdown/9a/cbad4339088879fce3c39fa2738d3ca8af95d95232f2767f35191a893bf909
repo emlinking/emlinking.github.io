@@ -1,4 +1,4 @@
-I"	<ul id="markdown-toc">
+I"�	<ul id="markdown-toc">
   <li><a href="#about-me" id="markdown-toc-about-me">About Me</a></li>
   <li><a href="#about-my-mentor" id="markdown-toc-about-my-mentor">About My Mentor</a></li>
   <li><a href="#about-my-project" id="markdown-toc-about-my-project">About My Project</a></li>
@@ -7,7 +7,7 @@
 
 <h2 id="about-me">About Me</h2>
 
-<p>I am a rising junior double-majoring in computer science and linguistics at Columbia University, in New York City. This summer, I am conducting research in the <a href="https://www.vislang.ai/">Vision, Language, and Learning Lab</a> at Rice University, with Professor Vicente Ordoñez-Román.</p>
+<p>I am a rising junior (graduating in spring 2024) double-majoring in computer science and linguistics at Columbia University, in New York City. This summer, I am conducting research in the <a href="https://www.vislang.ai/">Vision, Language, and Learning Lab</a> at Rice University, with Professor Vicente Ordoñez-Román.</p>
 
 <h2 id="about-my-mentor">About My Mentor</h2>
 
@@ -19,7 +19,7 @@
 
 <h2 id="about-my-project">About My Project</h2>
 
-<p>Project description goes here.</p>
+<p>I am studying the relationship between visual and linguistic complexity. Since computer vision models often struggle to detect objects in complex images (e.g., those that are “cluttered” or contain many different objects),</p>
 
 <p><a href="files/finalreport.pdf">My Final Report</a></p>
 

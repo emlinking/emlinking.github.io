@@ -8,7 +8,7 @@ title: Summer 2022 DREU Project Site
 
 ## About Me
 
-I am a rising junior double-majoring in computer science and linguistics at Columbia University, in New York City. This summer, I am conducting research in the [Vision, Language, and Learning Lab](https://www.vislang.ai/) at Rice University, with Professor Vicente Ordoñez-Román.
+I am a rising junior (graduating in spring 2024) double-majoring in computer science and linguistics at Columbia University, in New York City. I am interested in computational linguistics/natural language processing. At Columbia, I have worked as a research assistant in the [Speech Lab](https://www.cs.columbia.edu/areas/speech/), in the Department of Computer Science, and in the [Corter Lab](https://www.tc.columbia.edu/faculty/jec34/), in the Cognitive Science in Education program at Teachers College. I have also worked as a data annotator for the [Natural Language Processing Group](https://www.cs.columbia.edu/areas/speech/) at Columbia. This summer, I am conducting research in the [Vision, Language, and Learning Lab](https://www.vislang.ai/) at Rice University, with Professor [Vicente Ordóñez-Román](https://www.cs.rice.edu/~vo9/).
 
 ## About My Mentor
 
@@ -18,7 +18,11 @@ This official bio is from Professor Ordóñez-Román's [website](https://www.cs.
 
 ## About My Project
 
-Project description goes here.
+This summer, I am studying the relationship between visual and linguistic complexity. My project lies at the intersection of natural language processing and computer vision. Since computer vision models often struggle to detect objects in complex images (e.g., those that are "cluttered" or contain many different objects), it could be useful to develop a model for identifying complex images. One possible application of such a model would be to inform users when a CV model's predictions are more/less trustworthy. Since many images have accompanying written descriptions, we may be able to identify complex images using this text.
+
+The goals/plans for this project are to:
+1. Use object detectors to identify difficult/complex images.
+2. Determine if a text-based classifier is able to distinguish complex and non-complex images identified in (1), using the image descriptions/captions.
 
 [My Final Report](files/finalreport.pdf)
 
