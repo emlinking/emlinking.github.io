@@ -8,7 +8,7 @@ title: Summer 2022 DREU Project Site
 
 ## About Me
 
-Test.
+I am a rising junior double-majoring in computer science and linguistics at Columbia University, in New York City. This summer, I am conducting research in the Vision, Language and Learning Lab at Rice University, with Professor Vicente Ordoñez-Román.
 
 ## About My Mentor
 
