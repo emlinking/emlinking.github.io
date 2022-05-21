@@ -32,4 +32,4 @@ The [Distributed Research Experiences for Undergraduates](https://cra.org/cra-wp
 
 ## My Blog
 
-[My Blog](blog.html)
+See weekly updates on my project [here.](blog.html)
