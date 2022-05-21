@@ -1,0 +1,23 @@
+I"�<p>This week, I met with Professor Ordóñez-Román to discuss possible projects for the summer and set up regular meeting times for every week. 
+Right now we’re meeting twice per week online (plus communicating via email), but I’m looking forward to coming to Rice in June.</p>
+
+<p>The project idea we decided on was identifying complex images using their written descriptions. 
+This week, I spent a lot of time reading papers to familiarize myself with datasets we might use for this purpose, 
+e.g., <a href="https://arxiv.org/abs/1810.01771">SAVOIAS</a> and <a href="https://cocodataset.org/#home">MS-COCO</a>, both of which provide complex images with text descriptions.
+I also read about some of the metrics (BLEU, ROUGE, METEOR, CIDEr) used by the creators of MS-COCO to evaluate image captions.</p>
+
+<p>I also familiarized myself with basic machine learning, NLP, and cv concepts (e.g., goals and tasks in NLP/CV, stochastic gradient descent, 
+supervised v. unsupervised learning, different types of neural network architectures, convolution, word embeddings) with the help of some lectures 
+recommended by Professor Ordóñez-Román from his <a href="https://www.cs.rice.edu/~vo9/deep-vislang/">Deep Learning for Vision and
+Language</a> course. 
+This was definitely a challenge, since I’ve never taken a course in machine learning before,
+but I found it helpful to do some additional reading online for clarification as well as refer to the papers cited in the lectures. 
+In our next meeting, I plan to ask some questions about Transformer architecture, as I still find this topic confusing.</p>
+
+<p>To-dos for next week:</p>
+<ul>
+  <li>Read about <a href="https://arxiv.org/abs/1810.04805">BERT</a></li>
+  <li>Practice using BERT for text classification: Professor Ordóñez-Román shared a helpful Google Collab notebook with an assignment that walks through 
+the steps of this process (loading the dataset, training the model)</li>
+</ul>
+:ET
