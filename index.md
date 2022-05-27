@@ -18,11 +18,21 @@ Vicente Ordóñez-Román is Associate Professor in the Department of Computer Sc
 
 ## About My Project
 
-This summer, I am studying the relationship between visual and linguistic complexity. My project lies at the intersection of natural language processing and computer vision. Since computer vision models often struggle to detect objects in complex images (e.g., those that are "cluttered" or contain many different objects), it could be useful to develop a model for identifying complex images. One possible application of such a model would be to inform users when a CV model's predictions are more/less trustworthy. Since many images have accompanying written descriptions, we may be able to identify complex images using this text.
+This summer, I am studying the relationship between visual and linguistic complexity. 
+My project lies at the intersection of natural language processing and computer vision. 
+Since computer vision models often struggle to detect objects in complex images 
+(e.g., those that are "cluttered" or contain many different objects), it could be useful 
+to develop a model for identifying complex images. One possible application of such a model 
+would be to inform users when a CV model's predictions are more/less trustworthy. Since many images 
+have accompanying written descriptions, we may be able to identify complex images using this text.
 
 The goals/plans for this project are to:
 1. Use object detectors to identify difficult/complex images.
-2. Determine if a text-based classifier is able to distinguish complex and non-complex images identified in (1), using the image descriptions/captions.
+2. Determine if a text-based classifier is able to distinguish complex and non-complex images identified in (1), 
+using the image descriptions/captions.
+
+Through this project, I hope to explore my interest in machine learning, especially natural language processing, 
+as well as explore the interface of NLP and computer vision.
 
 [My Final Report](files/finalreport.pdf)
 

@@ -1,0 +1,44 @@
+I"�
+<p>This week I solidified my understanding of <a href="https://arxiv.org/abs/1810.04805">BERT</a> 
+and the <a href="https://arxiv.org/abs/1706.03762">Transformer architecture</a>. With
+the help of some tutorials from Professor Ordóñez-Román, I practiced finetuning
+models like ResNet and BERT for image and text classification on
+datasets like <a href="https://vision.princeton.edu/projects/2010/SUN/">SUN</a>
+and <a href="https://arxiv.org/abs/1702.01992">MM-IMDb</a>. We spent some of our meetings
+this week reviewing these tutorials.</p>
+
+<p>One of the most challenging exercises was to build and train from scratch
+a CNN for scene classification with PyTorch. From this exercise I emerged 
+with a better understanding of the convolution operation, batch 
+normalization, and image augmentation. I also got a lot more practice with
+PyTorch syntax and commonly used functions/methods.</p>
+
+<p>I ran into issues with GPU and RAM usage limits on Google Collab, which made me
+appreciate all the more getting access to the vislang lab servers this week.
+With some Linux CLI pointers from Professor Ordóñez-Román, now I can run scripts 
+(and even remotely run Jupyter notebooks) via VPN connection to Rice. 
+I did have a bit of a problem with matching my installations
+of PyTorch and CUDA to the lab machines’ GPU’s at first, but was able to fix this
+after some sleuthing on StackOverflow. In general, I got a lot more practice
+with package managers (pip, anaconda), setting up and properly using virtual
+environments, and the Jupyter Lab interface.</p>
+
+<p>Another stumbling block was running out of space on one of the lab servers. 
+Luckily, there are two servers, and for now I can use the other one.</p>
+
+<p>In our last meeting this afternoon, Professor Ordóñez-Román and I discussed next
+steps for choosing a dataset and image complexity metric for my project (identifying
+complex images by their textual descriptions). Before
+our next meeting I’ll be reading more papers on possible datasets to use and
+taking notes on important information like size, availability of captions, etc.,
+as well as different definitions of “complexity.” Once we choose a dataset, I’ll
+need to do some preliminary inspection of the data and generate summary statistics like
+average caption length. Depending on the dataset, we may have to collect our own
+caption/image descriptions or generate complexity scores, since not all datasets
+have all the components necessary for the task as formulated.</p>
+
+<p>I also attended the DREU Kick-off Webinar this afternoon, which introduced us to
+some helpful tips for getting the most out of this program. Additionally, I got
+my housing assignment at Rice this week (hard to believe I’ll be there in just over 
+two weeks!)</p>
+:ET
