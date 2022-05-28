@@ -1,55 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Summer 2022 DREU Project Site – DREU 2022 - Eleanor Lin – Summer at the Vision, Language, and Learning Lab, Rice University</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="Summer at the Vision, Language, and Learning Lab, Rice University">
-    <meta property="og:description" content="Summer at the Vision, Language, and Learning Lab, Rice University" />
-    
-    <meta name="author" content="DREU 2022 - Eleanor Lin" />
-
-    
-    <meta property="og:title" content="Summer 2022 DREU Project Site" />
-    <meta property="twitter:title" content="Summer 2022 DREU Project Site" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="DREU 2022 - Eleanor Lin - Summer at the Vision, Language, and Learning Lab, Rice University" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://emlinking.github.io/images/IMG_0382.JPG" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">DREU 2022 - Eleanor Lin</a></h1>
-            <p class="site-description">Summer at the Vision, Language, and Learning Lab, Rice University</p>
-          </div>
-
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <p><strong>Eleanor Lin</strong><br />
-B. A. Candidate, Computer Science and Linguistics<br />
-<a href="https://www.cs.columbia.edu/">Department of Computer Science</a> and <a href="https://slavic.columbia.edu/content/linguistics">Program of Linguistics</a><br />
-Columbia University<br />
-e.lin2@columbia.edu</p>
+I"�<p><strong>Eleanor Lin</strong><br />
+B. A. Candidate, Computer Science and Linguistics
+Columbia University Department of Computer Science and Program of Linguistics (under the auspices of the Department of Slavic Languages)<br />
+Email: e.lin2@columbia.edu</p>
 
 <ul id="markdown-toc">
   <li><a href="#about-me" id="markdown-toc-about-me">About Me</a></li>
@@ -61,8 +13,8 @@ e.lin2@columbia.edu</p>
 
 <h2 id="about-me">About Me</h2>
 
-<p>I am a rising junior (graduating in spring 2024) double-majoring in linguistics and computer science on the intelligent
-systems track at Columbia University, in New York City. I am interested in computational linguistics/natural language processing. 
+<p>I am a rising junior (graduating in spring 2024) double-majoring in linguistics and computer science, on the intelligent
+systems track, at Columbia University, in New York City. I am interested in computational linguistics/natural language processing. 
 At Columbia, I have worked as a research assistant in the <a href="https://www.cs.columbia.edu/areas/speech/">Speech Lab</a>, 
 in the Department of Computer Science, and in the <a href="https://www.tc.columbia.edu/faculty/jec34/">Corter Lab</a>, in the 
 Cognitive Science in Education program at Teachers College. I have also worked as a data annotator for the <a href="https://www.cs.columbia.edu/areas/speech/">Natural 
@@ -105,28 +57,4 @@ as well as explore the interface of NLP and computer vision.</p>
 <h2 id="my-blog">My Blog</h2>
 
 <p>See weekly updates on my project <a href="blog.html">here.</a></p>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:e.lin2@columbia.edu"><i class="svg-icon email"></i></a>
-
-
-
-
-
-
-
-
-
-
-
-        </footer>
-      </div>
-    </div>
-
-  </body>
-</html>
+:ET

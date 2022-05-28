@@ -3,12 +3,26 @@ layout: default
 title: Summer 2022 DREU Project Site
 ---
 
+
+**Eleanor Lin**  
+B. A. Candidate, Computer Science and Linguistics  
+[Department of Computer Science](https://www.cs.columbia.edu/) and [Program of Linguistics](https://slavic.columbia.edu/content/linguistics)  
+Columbia University  
+e.lin2@columbia.edu
+
 * TOC
 {:toc}
 
 ## About Me
 
-I am a rising junior (graduating in spring 2024) double-majoring in computer science and linguistics at Columbia University, in New York City. I am interested in computational linguistics/natural language processing. At Columbia, I have worked as a research assistant in the [Speech Lab](https://www.cs.columbia.edu/areas/speech/), in the Department of Computer Science, and in the [Corter Lab](https://www.tc.columbia.edu/faculty/jec34/), in the Cognitive Science in Education program at Teachers College. I have also worked as a data annotator for the [Natural Language Processing Group](https://www.cs.columbia.edu/areas/speech/) at Columbia. This summer, I am conducting research in the [Vision, Language, and Learning Lab](https://www.vislang.ai/) at Rice University, with Professor [Vicente Ordóñez-Román](https://www.cs.rice.edu/~vo9/).
+I am a rising junior (graduating in spring 2024) double-majoring in linguistics and computer science on the intelligent
+systems track at Columbia University, in New York City. I am interested in computational linguistics/natural language processing. 
+At Columbia, I have worked as a research assistant in the [Speech Lab](https://www.cs.columbia.edu/areas/speech/), 
+in the Department of Computer Science, and in the [Corter Lab](https://www.tc.columbia.edu/faculty/jec34/), in the 
+Cognitive Science in Education program at Teachers College. I have also worked as a data annotator for the [Natural 
+Language Processing Group](https://www.cs.columbia.edu/areas/speech/) at Columbia. This summer, I am conducting research 
+in the [Vision, Language, and Learning Lab](https://www.vislang.ai/) at Rice University, with Professor [Vicente 
+Ordóñez-Román](https://www.cs.rice.edu/~vo9/).
 
 ## About My Mentor
 
