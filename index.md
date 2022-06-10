@@ -48,6 +48,12 @@ using the image descriptions/captions.
 Through this project, I hope to explore my interest in machine learning, especially natural language processing, 
 as well as explore the interface of NLP and computer vision.
 
+**Project-related pages:**
+
+See my visualizations of the SAVOIAS dataset [here.](https://emlinking.github.io/savoias/)
+
+See my visualizations of the MS-COCO dataset [here.](https://emlinking.github.io/coco/)
+
 [My Final Report](files/finalreport.pdf)
 
 ## About the DREU Program
@@ -58,4 +64,3 @@ The [Distributed Research Experiences for Undergraduates](https://cra.org/cra-wp
 
 See weekly updates on my project [here.](blog.html)
 
-See my visualizations of the SAVOIAS dataset [here.](https://emlinking.github.io/savoias/)

@@ -9,10 +9,16 @@ by vislang.
 
 - [Human-scored Images](coco-human.html)
 - [Automatically scored Images](coco-auto.html)
-- [Images ranked by mean-shift segmented # of regions, page 1/4](coco-regions-1.html)
-- [Images ranked by mean-shift segmented # of regions, page 2/4](coco-regions-2.html)
-- [Images ranked by mean-shift segmented # of regions, page 3/4](coco-regions-3.html)
-- [Images ranked by mean-shift segmented # of regions, page 4/4](coco-regions-4.html)
+- Images ranked by mean-shift segmented # of regions
+	- [Page 1/4](coco-regions-1.html)
+	- [Page 2/4](coco-regions-2.html)
+	- [Page 3/4](coco-regions-3.html)
+	- [Page 4/4](coco-regions-4.html)
+- Images ranked by feature congestion
+	- [Page 1/4](coco-fc-1.html)
+	- [Page 2/4](coco-fc-2.html)
+	- [Page 3/4](coco-fc-3.html)
+	- [Page 4/4](coco-fc-4.html)
 
 **Citation:** Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., & Zitnick, C. L. (2014). Microsoft COCO: Common Objects in Context. 
 In D. Fleet, T. Pajdla, B. Schiele, & T. Tuytelaars (Eds.), Computer Vision – ECCV 2014 (Vol. 8693, pp. 740–755). Springer International Publishing. 
