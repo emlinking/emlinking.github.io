@@ -19,7 +19,7 @@ Images ranked by mean-shift-segmented number of regions:
 - [Objects](objects-regions.html)
 - [Interiors](interiors-regions.html)
 
-Images raned by feature congestion:
+Images ranked by feature congestion:
 - [Scenes](scenes-fc.html)
 - [Objects](objects-fc.html)
 - [Interiors](interiors-fc.html)
