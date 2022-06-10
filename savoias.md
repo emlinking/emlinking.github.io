@@ -14,6 +14,16 @@ by Saraee et al. (2018).
 - [Objects](objects.html)
 - [Interiors](interiors.html)
 
+Images ranked by mean-shift-segmented number of regions:
+- [Scenes](scenes-regions.html)
+- [Objects](objects-regions.html)
+- [Interiors](interiors-regions.html)
+
+Images raned by feature congestion:
+- [Scenes](scenes-fc.html)
+- [Objects](objects-fc.html)
+- [Interiors](interiors-fc.html)
+
 **Additional categories not visualized here:** Advertisements, Visualizations and
 Infographics, Art, and Suprematism
 
