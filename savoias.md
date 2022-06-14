@@ -12,7 +12,7 @@ Click [here](all-savoias-regions.html) to view
 all 500 SAVOIAS images from the Scenes, Objects, and Interiors categories, ranked by mean-shift segmented
 number of regions.
 
-# Images by SAVOIAS Category
+## Images by SAVOIAS Category
 Images ranked by groundtruth complexity score:
 - [Scenes](scenes.html)
 - [Objects](objects.html)
