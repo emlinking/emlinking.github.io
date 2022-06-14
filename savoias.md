@@ -4,12 +4,16 @@ title: "SAVOIAS Dataset Visualizations"
 permalink: /savoias/
 ---
 
-## SAVOIAS Image Categories
+Click [here](all-savoias-gt.html) to view
+all 500 SAVOIAS images from the Scenes, Objects, and Interiors categories, ranked by groundtruth complexity score
+as described in Saraee et al. (2018).
 
-Click on the links below to view all of the images in each of the following
-SAVOIAS categories on one page, ranked by visual complexity score as described
-by Saraee et al. (2018).
+Click [here](all-savoias-regions.html) to view
+all 500 SAVOIAS images from the Scenes, Objects, and Interiors categories, ranked by mean-shift segmented
+number of regions.
 
+# Images by SAVOIAS Category
+Images ranked by groundtruth complexity score:
 - [Scenes](scenes.html)
 - [Objects](objects.html)
 - [Interiors](interiors.html)
