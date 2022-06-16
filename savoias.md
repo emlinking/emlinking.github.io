@@ -8,6 +8,9 @@ Click [here](all-savoias-gt.html) to view
 all 500 SAVOIAS images from the Scenes, Objects, and Interiors categories, ranked by groundtruth complexity score
 as described in Saraee et al. (2018).
 
+Click [here](savoias-dr.html) to view
+all 500 SAVOIAS images from the Scenes, Objects, and Interiors categories, ranked by number of distinct regions.
+
 Click [here](all-savoias-regions.html) to view
 all 500 SAVOIAS images from the Scenes, Objects, and Interiors categories, ranked by mean-shift segmented
 number of regions.
