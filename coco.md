@@ -3,6 +3,10 @@ layout: page
 title: "COCO Dataset Visualizations"
 permalink: /coco/
 ---
+Click on the links below to view ~5,000 images from the MS-COCO 2017 validation set, ranked by automated visual complexity scores.
+- Images ranked by # of distinct mean-shift segmented regions
+	- [Top 500 most complex images](complex-coco-eval.html)
+	- [Bottom 500 least complex images](noncomplex-coco-eval.html)
 
 Click on the links below to view ~5,000 images from the MS-COCO 2014 validation set, ranked by human and automated visual complexity scores. The scoring was conducted
 by vislang.
