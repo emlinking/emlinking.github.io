@@ -8,6 +8,30 @@ Click on the links below to view ~5,000 images from the MS-COCO 2017 validation 
 	- [Top 500 most complex images](complex-coco-eval.html)
 	- [Bottom 500 least complex images](noncomplex-coco-eval.html)
 
+Click on the links below to view ~5,000 images from the MS-COCO 2017 train set, ranked by automated visual complexity scores.
+- Images ranked by # of distinct mean-shift segmented regions
+	- Top 11,828 most complex images (top 10% of train set)
+		- [Page 1/10](complex-coco-train1.html)
+		- [Page 2/10](complex-coco-train2.html)
+		- [Page 3/10](complex-coco-train3.html)
+		- [Page 4/10](complex-coco-train4.html)
+		- [Page 5/10](complex-coco-train5.html)
+		- [Page 6/10](complex-coco-train6.html)
+		- [Page 7/10](complex-coco-train7.html)
+		- [Page 8/10](complex-coco-train8.html)
+		- [Page 9/10](complex-coco-train9.html)
+		- [Page 10/10](complex-coco-train10.html)
+	- Bottom 11,828 least complex images (bottom 10% of train set)
+		- [Page 1/10](noncomplex-coco-train1.html)
+		- [Page 2/10](noncomplex-coco-train2.html)
+		- [Page 3/10](noncomplex-coco-train3.html)
+		- [Page 4/10](noncomplex-coco-train4.html)
+		- [Page 5/10](noncomplex-coco-train5.html)
+		- [Page 6/10](noncomplex-coco-train6.html)
+		- [Page 7/10](noncomplex-coco-train7.html)
+		- [Page 8/10](noncomplex-coco-train8.html)
+		- [Page 9/10](noncomplex-coco-train9.html)
+		- [Page 10/10](noncomplex-coco-train10.html)
 Click on the links below to view ~5,000 images from the MS-COCO 2014 validation set, ranked by human and automated visual complexity scores. The scoring was conducted
 by vislang.
 
