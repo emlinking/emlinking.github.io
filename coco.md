@@ -32,6 +32,7 @@ Click on the links below to view ~5,000 images from the MS-COCO 2017 train set, 
 		- [Page 8/10](noncomplex-coco-train8.html)
 		- [Page 9/10](noncomplex-coco-train9.html)
 		- [Page 10/10](noncomplex-coco-train10.html)
+
 Click on the links below to view ~5,000 images from the MS-COCO 2014 validation set, ranked by human and automated visual complexity scores. The scoring was conducted
 by vislang.
 
