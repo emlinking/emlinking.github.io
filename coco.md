@@ -5,6 +5,7 @@ permalink: /coco/
 ---
 MS-COCO 2017: Grayscale images excluded
 - All complex/noncomplex [val set images](color-coco-val2017.html) using meanshift segmented number of distinct regions as groundtruth
+- All complex/noncomplex [val set images containing instances of 'bicycle'](coco-bicycle-val2017.html)
 
 Click on the links below to view ~5,000 images from the MS-COCO 2017 validation set, ranked by automated visual complexity scores.
 - Images ranked by # of distinct mean-shift segmented regions
