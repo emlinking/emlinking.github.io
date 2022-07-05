@@ -32,7 +32,7 @@ BERT predicted complex/complex images:
 	- [Noncomplex](predicted-noncomplex-outdoor-rgb.html)
 - Predictions from best model trained on color images with instances of category "person":
 	- [Complex](predicted-complex-person-rgb.html)
-	- [Noncomplex](predicted-noncomplex-pesron-rgb.html)
+	- [Noncomplex](predicted-noncomplex-person-rgb.html)
 - Predictions from best model trained on color images with instances of category "vehicle":
 	- [Complex](predicted-complex-vehicle-rgb.html)
 	- [Noncomplex](predicted-noncomplex-vehicle-rgb.html)
