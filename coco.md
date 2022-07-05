@@ -12,6 +12,30 @@ BERT predicted complex/complex images:
 - Predictions from best model trained on all 10,000 images in complexity dataset:
 	- [Top 50 images](predicted-complex-full-set.html) predicted to be complex with highest probability
 	- [Top 50 images](predicted-noncomplex-full-set.html) predicted to be noncomplex with highest probability
+- Predictions from best model trained on color image subset of full complexity dataset:
+	- [Complex](predicted-complex-full-color-set.html)
+	- [Noncomplex](predicted-noncomplex-full-color-set.html)
+- Predictions from best model trained on color images with instances of category "accessory":
+	- [Complex](predicted-complex-accessory-rgb.html)
+	- [Noncomplex](predicted-noncomplex-accessory-rgb.html)
+- Predictions from best model trained on color images with instances of category "animal":
+	- [Complex](predicted-complex-animal-rgb.html)
+	- [Noncomplex](predicted-noncomplex-animal-rgb.html)
+- Predictions from best model trained on color images with instances of category "car":
+	- [Complex](predicted-complex-car-rgb.html)
+	- [Noncomplex](predicted-noncomplex-car-rgb.html)
+- Predictions from best model trained on color images with instances of category "food":
+	- [Complex](predicted-complex-food-rgb.html)
+	- [Noncomplex](predicted-noncomplex-food-rgb.html)
+- Predictions from best model trained on color images with instances of category "outdoor":
+	- [Complex](predicted-complex-outdoor-rgb.html)
+	- [Noncomplex](predicted-noncomplex-outdoor-rgb.html)
+- Predictions from best model trained on color images with instances of category "person":
+	- [Complex](predicted-complex-person-rgb.html)
+	- [Noncomplex](predicted-noncomplex-pesron-rgb.html)
+- Predictions from best model trained on color images with instances of category "vehicle":
+	- [Complex](predicted-complex-vehicle-rgb.html)
+	- [Noncomplex](predicted-noncomplex-vehicle-rgb.html)
 
 Click on the links below to view ~5,000 images from the MS-COCO 2017 validation set, ranked by automated visual complexity scores.
 - Images ranked by # of distinct mean-shift segmented regions
