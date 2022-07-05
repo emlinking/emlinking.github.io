@@ -8,6 +8,11 @@ MS-COCO 2017: Grayscale images excluded
 - All complex/noncomplex [val set images containing instances of 'bicycle'](coco-bicycle-val2017.html)
 - All complex/noncomplex [val set images containing instances of 'person'](coco-person-val2017.html)
 
+BERT predicted complex/complex images:
+- Predictions from best model trained on all 10,000 images in complexity dataset:
+	- [Top 50 images](predicted-complex-full-set.html) predicted to be complex with highest probability
+	- [Top 50 images](predicted-noncomplex-full-set.html) predicted to be noncomplex with highest probability
+
 Click on the links below to view ~5,000 images from the MS-COCO 2017 validation set, ranked by automated visual complexity scores.
 - Images ranked by # of distinct mean-shift segmented regions
 	- [Top 500 most complex images](complex-coco-eval.html)
