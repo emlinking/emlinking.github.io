@@ -3,6 +3,10 @@ layout: page
 title: "COCO Dataset Visualizations"
 permalink: /coco/
 ---
+Predictions from classifier trained on captions with nouns replaced by word "object(s)":
+- [Complex predictions](complex-predictions-classifier-trained-on-full-set-nouns-masked)
+- [Noncomplex predictions](noncomplex-predictions-classifier-trained-on-full-set-nouns-masked)
+
 MS-COCO 2017: Grayscale images excluded
 - All complex/noncomplex [val set images](color-coco-val2017.html) using meanshift segmented number of distinct regions as groundtruth
 - All complex/noncomplex [val set images containing instances of 'bicycle'](coco-bicycle-val2017.html)
