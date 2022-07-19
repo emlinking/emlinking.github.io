@@ -6,10 +6,10 @@ permalink: /coco/
 Predictions from classifier trained on captions with nouns, verbs, adjectives, and adverbs substituted with placeholder words:
 - [Complex predictions, nouns masked](complex-predictions-classifier-trained-on-full-set-nouns-masked.html)
 - [Noncomplex predictions, nouns masked](noncomplex-predictions-classifier-trained-on-full-set-nouns-masked.html)
-- [Complex predictions, nouns and verbs masked](predictions-complex-classifier-trained-on-full-set-mask-noun-verb)
-- [Noncomplex predictions](predictions-noncomplex-classifier-trained-on-full-set-mask-noun-verb)
+- [Complex predictions, nouns and verbs masked](predictions-complex-classifier-trained-on-full-set-mask-noun-verb.html)
+- [Noncomplex predictions](predictions-noncomplex-classifier-trained-on-full-set-mask-noun-verb.html)
 - [Complex predictions, nouns, verbs, and adjectives masked](predictions-complex-classifier-trained-on-full-set-mask-noun-verb-adj.html)
-- [Noncomplex predictions](predictions-noncomplex-classifier-trained-on-full-set-mask-noun-verb-adj)
+- [Noncomplex predictions](predictions-noncomplex-classifier-trained-on-full-set-mask-noun-verb-adj.html)
 - [Complex predictions, nouns, verbs, adjectives, and adverbs masked](predicted-complex-classifier-trained-on-full-set-mask-all.html)
 - [Noncomplex predictions](predicted-noncomplex-classifier-trained-on-full-set-mask-all.html)
 
