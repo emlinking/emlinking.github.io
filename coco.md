@@ -3,9 +3,15 @@ layout: page
 title: "COCO Dataset Visualizations"
 permalink: /coco/
 ---
-Predictions from classifier trained on captions with nouns replaced by word "object(s)":
-- [Complex predictions](complex-predictions-classifier-trained-on-full-set-nouns-masked.html)
-- [Noncomplex predictions](noncomplex-predictions-classifier-trained-on-full-set-nouns-masked.html)
+Predictions from classifier trained on captions with nouns, verbs, adjectives, and adverbs substituted with placeholder words:
+- [Complex predictions, nouns masked](complex-predictions-classifier-trained-on-full-set-nouns-masked.html)
+- [Noncomplex predictions, nouns masked](noncomplex-predictions-classifier-trained-on-full-set-nouns-masked.html)
+- [Complex predictions, nouns and verbs masked](predictions-complex-classifier-trained-on-full-set-mask-noun-verb)
+- [Noncomplex predictions](predictions-noncomplex-classifier-trained-on-full-set-mask-noun-verb)
+- [Complex predictions, nouns, verbs, and adjectives masked](predictions-complex-classifier-trained-on-full-set-mask-noun-verb-adj.html)
+- [Noncomplex predictions](predictions-noncomplex-classifier-trained-on-full-set-mask-noun-verb-adj)
+- [Complex predictions, nouns, verbs, adjectives, and adverbs masked](predicted-complex-classifier-trained-on-full-set-mask-all.html)
+- [Noncomplex predictions](predicted-noncomplex-classifier-trained-on-full-set-mask-all.html)
 
 MS-COCO 2017: Grayscale images excluded
 - All complex/noncomplex [val set images](color-coco-val2017.html) using meanshift segmented number of distinct regions as groundtruth
