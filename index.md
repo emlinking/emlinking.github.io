@@ -53,7 +53,7 @@ See my visualizations of the SAVOIAS dataset [here.](https://emlinking.github.io
 
 See my visualizations of the MS-COCO dataset [here.](https://emlinking.github.io/coco/)
 
-[My Final Report - To be posted August 2022](files/finalreport.pdf)
+[My Final Report](files/finalreport.pdf)
 
 ## About the DREU Program
 
