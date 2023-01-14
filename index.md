@@ -15,7 +15,7 @@ e.lin2@columbia.edu
 
 ## 2022 Undergraduate Research Symposium, Columbia University
 
-I presented my work at Columbia's 2022 [Undergraduate Research Symposium](https://urf.columbia.edu/urf/research/Ugrad-symposium) in October. Click [here](files/abstract_visual_complexity_lin_2022.pdf) for the poster abstract and [here](poster_visual_complexity_lin_2022.pdf) for the poster.
+I presented my work at Columbia's 2022 [Undergraduate Research Symposium](https://urf.columbia.edu/urf/research/Ugrad-symposium) in October. Click [here](files/abstract_visual_complexity_lin_2022.pdf) for the poster abstract and [here](files/poster_visual_complexity_lin_2022.pdf) for the poster.
 
 - “Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?” presented at the Columbia University Undergraduate Research Symposium, New York, NY, United States, Oct. 21, 2022. Abstract available: https://blogs.cuit.columbia.edu/undergraduate-research/files/2022/10/Research-Symposium-Abstract-Booklet-2022-FINAL-2.pdf
 
