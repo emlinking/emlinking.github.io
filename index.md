@@ -13,6 +13,12 @@ e.lin2@columbia.edu
 * TOC
 {:toc}
 
+## Fall 2022 Undergraduate Research Symposium at Columbia University
+
+I presented my work at Columbia's 2022 Undergraduate Research Symposium in October. Click [here](files/abstract_visual_complexity_lin_2022.pdf) for the poster abstract and [here](poster_visual_complexity_lin_2022.pdf) for the poster.
+
+- “Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?” presented at the Columbia University Undergraduate Research Symposium, New York, NY, United States, Oct. 21, 2022. Abstract available: https://blogs.cuit.columbia.edu/undergraduate-research/files/2022/10/Research-Symposium-Abstract-Booklet-2022-FINAL-2.pdf
+
 ## About Me
 
 I am a rising junior (graduating in spring 2024) double-majoring in linguistics and computer science on the intelligent
@@ -53,7 +59,7 @@ See my visualizations of the SAVOIAS dataset [here.](https://emlinking.github.io
 
 See my visualizations of the MS-COCO dataset [here.](https://emlinking.github.io/coco/)
 
-**My Final Report:** To be posted December 2022
+**My Final Report:** Currently under revision
 
 ## About the DREU Program
 
