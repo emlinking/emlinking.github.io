@@ -21,27 +21,27 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 
 ## Presentations
 <div class="blog-post subtext p-2">
-					<ul class="list-unstyled">
-					<li class="media">
-						<img class="mr-3 img-thumbnail" src="images/viscomplex.pdf" width="100" alt="">
-						<div class="media-body">
-						<p class="my-auto">
-						<a class="blue_link" href="https://emlinking.github.io">
-							Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
-						</a> 
-						<span class="pub_authors d-lg-block">
-							<b>Lin, E.</b>, Yang, Z., & Ordóñez, V.
-						</span>
-						<span class="pub_info d-inline">
-							Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
-						</span>
-						[<a href="files/dreu_report.pdf">Report</a>] 
-						[<a href="files/defense_slides.pdf">Slides</a>] 
-						[<a href="files/dreu_poster.pdf">Poster</a>] 
-						</p>
-						</div>
-					</li>
-					</ul>
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex.pdf" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://emlinking.github.io">
+				Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
+			</a> 
+			<span class="pub_authors d-lg-block">
+				<b>Lin, E.</b>, Yang, Z., & Ordóñez, V.
+			</span>
+			<span class="pub_info d-inline">
+				Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
+			</span>
+			[<a href="files/dreu_report.pdf">Report</a>] 
+			[<a href="files/defense_slides.pdf">Slides</a>] 
+			[<a href="files/dreu_poster.pdf">Poster</a>] 
+			</p>
+			</div>
+		</li>
+	</ul>
 </div><!-- /.blog-post -->
 
 ## Research Experience
