@@ -36,7 +36,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
 			</span>
 			[<a href="files/dreu_report.pdf">Report</a>] 
-			[<a href="files/defense_slides.pdf">Slides</a>] 
+			[<a href="files/dreu_slides.pdf">Slides</a>] 
 			[<a href="files/dreu_poster.pdf">Poster</a>] 
 			</p>
 			</div>
