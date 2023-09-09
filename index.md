@@ -26,7 +26,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://emlinking.github.io">
+			<a class="blue_link" href="files/dreu_report.pdf">
 				Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
 			</a> 
 			<span class="pub_authors d-lg-block">
