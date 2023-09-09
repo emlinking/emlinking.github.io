@@ -95,14 +95,6 @@ a {
   padding-left: 4px;
   padding-right: 4px;
 }
-.institution-head-text a:hover, .vislang-head-text a:hover{
-  text-decoration: none;
-}
-.jumbo-box {
-  background-image: url("../images/uva-background.jpg");
-  background-size: cover;
-  text-align: center;
-}
 .group-logo{
   height: 40px;
   position: relative;
@@ -194,53 +186,6 @@ a.plain {
   margin: 0;
   padding: 0;
 }
-
-/* Begin styling of controls in forms */
-.custom-file-label-x{
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 1;
-    height: calc(1.5em + .75rem + 2px);
-    padding: .375rem .75rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #495057;
-    background-color: #fff;
-    border: 1px solid #ced4da;
-    border-radius: .25rem;
-}
-.custom-file-label-x:focus{
-  box-shadow: none;
-}
-.custom-file-label-x-icon {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-    display: block;
-    height: calc(1.5em + .75rem);
-    padding: .375rem .75rem;
-    border-left: inherit;
-    border-radius: 0 .25rem .25rem 0;
-}
-.form-control:focus{
-  box-shadow: none;
-}
-.form-control::placeholder, .form-control-placeholder{
-  font-size: 0.95rem;
-  color: #aaa;
-  font-style: italic;
-}
-#text2scene-form .form-control:valid, #text2scene-form .form-control.is-valid{
-  background-image: none!important;
-}
-.form-control-goodwidth{
-  width: 450px;
-}
-/* End styling of controls in forms */
 
 .material-icons.md-18 { font-size: 20px; }
 
