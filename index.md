@@ -21,7 +21,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 * TOC
 {:toc}
 
-## Publications and Articles
+## Publications
 
 ## Presentations
 <div class="blog-post subtext p-2">
@@ -52,4 +52,8 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 
 ## Teaching Experience
 
+## Work Experience
+
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
+<br />
+<br />
