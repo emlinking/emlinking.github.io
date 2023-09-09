@@ -37,7 +37,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			</span>
 			[<a href="files/dreu_report.pdf">Report</a>] 
 			[<a href="files/dreu_slides.pdf">Slides</a>] 
-			[<a href="files/dreu_poster.pdf">Poster</a>] 
+			[<a href="files/poster_visual_complexity_lin_2022.pdf">Poster</a>] 
 			</p>
 			</div>
 		</li>
