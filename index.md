@@ -9,7 +9,8 @@ title: Eleanor M. Lin
 <br />
 <img src="images/IMG_0382.JPG" width="200"/>
  
-**Eleanor M. Lin**  
+<h3 id="name" class="p-0 m-0 mb-1">Eleanor M. Lin</h3>
+
 B. A. Candidate, Computer Science and Linguistics  
 [Department of Computer Science](https://www.cs.columbia.edu/) and [Program of Linguistics](https://slavic.columbia.edu/content/linguistics)  
 Columbia University  
