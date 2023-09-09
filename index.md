@@ -51,3 +51,5 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 ## Research Experience
 
 ## Teaching Experience
+
+<div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
