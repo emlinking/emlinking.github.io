@@ -4,8 +4,11 @@ title: Eleanor M. Lin
 ---
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
-<img src="images/IMG_0382.JPG" width="200"/>
 
+<br />
+<br />
+<img src="images/IMG_0382.JPG" width="200"/>
+ 
 **Eleanor M. Lin**  
 B. A. Candidate, Computer Science and Linguistics  
 [Department of Computer Science](https://www.cs.columbia.edu/) and [Program of Linguistics](https://slavic.columbia.edu/content/linguistics)  
