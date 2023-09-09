@@ -23,7 +23,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex.jpg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			<a class="blue_link" href="https://emlinking.github.io">
