@@ -78,73 +78,31 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 		<li class="media">
 			<div class="media-body">
 			<p class="my-auto">
-			REU Travel Grant, National Science Foundation, 2023
+			REU Travel Grant, National Science Foundation, 2023<br>
 			<span class="pub_info d-inline">
-				Awarded $1200 to attend MobiHoc '23 and present my paper, <a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models</a>.
+				<i>Awarded $1200 to attend MobiHoc '23 and present my paper, <a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models</a>.</i>
 			</span>
 			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<div class="media-body">
 			<p class="my-auto">
-			Dean's List, Columbia College, 2020 – Present
+			Dean's List, Columbia College, 2020 – Present<br>
 			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<div class="media-body">
 			<p class="my-auto">
-			NSF Research Experiences for Undergraduates Intern, University of Southern California, 2023
+				NSF Research Experiences for Undergraduates Intern, University of Southern California, 2023
 			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<div class="media-body">
 			<p class="my-auto">
-			Fulbright-Hays Scholarship (Declined), American Councils for International Education, 2023
+				Fulbright-Hays Scholarship (Declined), American Councils for International Education, 2023<br>
 			<span class="pub_info d-inline">
-				Awarded $7915 to cover cost of attendance for Taiwan Intensive Summer Language Program
+				<i>Awarded $7915 to cover cost of attendance for Taiwan Intensive Summer Language Program.</i>
 			</span>
-				
 			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<div class="media-body">
 			<p class="my-auto">
-			Distributed Research Experiences for Undergraduates Intern, Computing Research Association, 2022
+				Distributed Research Experiences for Undergraduates Intern, Computing Research Association, 2022<br>
 			<span class="pub_info d-inline">
-				Awarded $7000 to conduct research at Rice University with Professor Vicente Ordóñez Román
+				<i>Awarded $7000 to conduct research at Rice University with Professor Vicente Ordóñez Román.</i>
 			</span>
-				
 			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<div class="media-body">
 			<p class="my-auto">
-			Computer Science Research Mentorship Program Scholar, Google, 2021
+				<a class="blue_link" href="https://research.google/outreach/csrmp/recipients/?category=2021">Computer Science Research Mentorship Program Scholar</a>, Google, 2021
 			</p>
 			</div>
 		</li>
