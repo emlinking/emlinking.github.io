@@ -227,6 +227,29 @@ ates. Moderated discussions, took attendance, and emailed weekly announcements.
 </div><!-- /.blog-post -->
 
 ## Work Experience
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Columbia Daily Spectator</a>, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Graphics Deputy Editor</i>, January 2022 – May 2022
+			</span>
+			<span class="pub_authors d-lg-block">
+				<i>Graphics Trainee</i>, October 2021 – December 2021
+			</span>
+			<span class="pub_authors d-lg-block">
+				<i>Summer Fellow</i>, July 2020
+			</span>
+			<span class="pub_info d-inline">
+				 Reported stories incorporating data analysis and visualization using Python, Adobe Illustrator, HTML, and CSS. [<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Articles</a>]
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
