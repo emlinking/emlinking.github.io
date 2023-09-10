@@ -76,7 +76,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/speech_lab.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			<a class="blue_link" href="http://www.cs.columbia.edu/speech/index.cgi">
@@ -97,7 +97,28 @@ thetic speech corpus by processing video, audio, text with Jupyter Notebooks, Pr
 		</li>
 	</ul>
 </div><!-- /.blog-post -->
-
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://emotions.ict.usc.edu/">
+				Affective Computing Lab
+			</a>, University of Southern California, Institute for Creative Technologies, Los Angeles, CA
+			<span class="pub_authors d-lg-block">
+				<i>Research Experiences for Undergraduates (REU) Intern</i>, May 2023 - August 2023 | <i>Adviser:</i> Jonathan Gratch
+			</span>
+			<span class="pub_info d-inline">
+				 Developed negotiating agent for online studies of human negotiation behaviors. Engineered
+large language model prompts for agent NLU/NLG with OpenAI API. Built user interface using
+HTML, CSS, JavaScript, Flask. Assembled Qualtrics survey for crowdworkers to evaluate agent.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 ## Teaching Experience
 
 ## Work Experience
