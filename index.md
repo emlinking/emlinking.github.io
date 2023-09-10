@@ -22,6 +22,29 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 {:toc}
 
 ## Publications
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">
+				Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models
+			</a> 
+			<span class="pub_authors d-lg-block">
+				<b>Eleanor Lin</b>, James Hale, and Jonathan Gratch
+			</span>
+			<span class="pub_info d-inline">
+				 In The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA. ACM, New York, NY, USA, 6 pages. 
+			</span>
+			[<a href="https://doi.org/10.1145/3565287.3617637">Paper</a>] 
+			[<a href="files/nego_slides.pdf">Slides</a>] 
+			[<a href="files/nego_poster.pdf">Poster</a>] 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 
 ## Presentations
 <div class="blog-post subtext p-2">
