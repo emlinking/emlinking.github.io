@@ -32,7 +32,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models
 			</a> 
 			<span class="pub_authors d-lg-block">
-				<b>Eleanor Lin</b>, James Hale, and Jonathan Gratch
+				<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch
 			</span>
 			<span class="pub_info d-inline">
 				 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. 
@@ -57,7 +57,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
 			</a> 
 			<span class="pub_authors d-lg-block">
-				<b>Lin, E.</b>, Yang, Z., & Ordóñez, V.
+				<u>Lin, E.</u>, Yang, Z., & Ordóñez, V.
 			</span>
 			<span class="pub_info d-inline">
 				Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
