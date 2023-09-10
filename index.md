@@ -290,6 +290,25 @@ ates. Moderated discussions, took attendance, and emailed weekly announcements.
 	</ul>
 </div><!-- /.blog-post -->
 
+## Service
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - December 2022
+			</span>
+			<span class="pub_info d-inline">
+				Supported a current sophomore majoring in computer science with one-on-one academic and preprofessional advising.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
 <br />
