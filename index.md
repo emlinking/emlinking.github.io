@@ -203,7 +203,6 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/syntax.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			Columbia LING4903: Syntax, New York, NY
@@ -223,7 +222,6 @@ assignments.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/linalg.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			Columbia COMS3251: Computational Linear Algebra, New York, NY
@@ -243,7 +241,6 @@ moderated class discussion board, graded homework assignments, proctored final e
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/esp.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			<a class="blue_link" href="https://www.cs.columbia.edu/esp/">Columbia COMS1404: Emerging Scholars Program Seminar</a>, New York, NY
