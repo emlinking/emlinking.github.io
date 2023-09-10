@@ -207,6 +207,8 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 	</ul>
 </div><!-- /.blog-post -->
 
+## Projects
+
 ## Teaching Experience
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
