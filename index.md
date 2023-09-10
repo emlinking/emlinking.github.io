@@ -53,18 +53,19 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="files/dreu_report.pdf">
-				Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
-			</a> 
-			<span class="pub_authors d-lg-block">
-				<u>Lin, E.</u>, Yang, Z., & Ordóñez, V.
-			</span>
-			<span class="pub_info d-inline">
-				Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
-			</span>
-			[<a href="files/dreu_report.pdf">Report</a>] 
-			[<a href="files/dreu_slides.pdf">Slides</a>] 
-			[<a href="files/poster_visual_complexity_lin_2022.pdf">Poster</a>] 
+				<a class="blue_link" href="files/dreu_report.pdf">
+					Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
+				</a> 
+				<span class="pub_authors d-lg-block">
+					<u>Lin, E.</u>, Yang, Z., & Ordóñez, V.
+				</span>
+				<span class="pub_info d-inline">
+					Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
+				</span>
+				[<a href="files/dreu_report.pdf">Report</a>] 
+				[<a href="files/dreu_slides.pdf">Slides</a>] 
+				[<a href="files/poster_visual_complexity_lin_2022.pdf">Poster</a>] 
+				[<a href="https://github.com/uvavision/visual-complexity>Code</a>]
 			</p>
 			</div>
 		</li>
@@ -72,6 +73,30 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 </div><!-- /.blog-post -->
 
 ## Research Experience
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="http://www.cs.columbia.edu/speech/index.cgi">
+				Speech Lab
+			</a>, Columbia University, Department of Computer Science, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Research Assistant</i>, January 2022 - Present | <i>Adviser:</i> Julia Hirschberg
+			</span>
+			<span class="pub_info d-inline">
+				 Investigate relationship between dialog acts and code-switching, by adapting dialog act annota-
+tion scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to
+fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus,
+using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empa-
+thetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 
 ## Teaching Experience
 
