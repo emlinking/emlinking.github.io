@@ -72,6 +72,85 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 	</ul>
 </div><!-- /.blog-post -->
 
+## Awards
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			REU Travel Grant, National Science Foundation, 2023
+			<span class="pub_info d-inline">
+				Awarded $1200 to attend MobiHoc '23 and present my paper, <a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models</a>.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			Dean's List, Columbia College, 2020 – Present
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			NSF Research Experiences for Undergraduates Intern, University of Southern California, 2023
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			Fulbright-Hays Scholarship (Declined), American Councils for International Education, 2023
+			<span class="pub_info d-inline">
+				Awarded $7915 to cover cost of attendance for Taiwan Intensive Summer Language Program
+			</span>
+				
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			Distributed Research Experiences for Undergraduates Intern, Computing Research Association, 2022
+			<span class="pub_info d-inline">
+				Awarded $7000 to conduct research at Rice University with Professor Vicente Ordóñez Román
+			</span>
+				
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<div class="media-body">
+			<p class="my-auto">
+			Computer Science Research Mentorship Program Scholar, Google, 2021
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
 ## Research Experience
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
