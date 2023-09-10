@@ -162,27 +162,6 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/amr.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="http://www.cs.columbia.edu/nlp/index_nltp.cgi">
-				Natural Language Text Processing Lab
-			</a>, Columbia University, Department of Computer Science, New York, NY
-			<span class="pub_authors d-lg-block">
-				<i>Data Annotator</i>, October 2021 – December 2021 | <i>Adviser:</i> Fei-Tzin Lee
-			</span>
-			<span class="pub_info d-inline">
-				 Generated semantic annotations for text generation/summarization in the literary domain.
-			</span>
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/amr.jpg" width="100" alt="">
-			<div class="media-body">
-			<p class="my-auto">
 			<a class="blue_link" href="http://www.columbia.edu/~jec34/">
 				Corter Lab
 			</a>, Columbia University, Department of Human Development, New York, NY
