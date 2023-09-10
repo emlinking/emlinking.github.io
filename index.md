@@ -65,7 +65,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				[<a href="files/dreu_report.pdf">Report</a>] 
 				[<a href="files/dreu_slides.pdf">Slides</a>] 
 				[<a href="files/poster_visual_complexity_lin_2022.pdf">Poster</a>] 
-				[<a href="https://github.com/uvavision/visual-complexity>Code</a>]
+				[<a href="https://github.com/uvavision/visual-complexity">Code</a>]
 			</p>
 			</div>
 		</li>
@@ -86,11 +86,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				<i>Research Assistant</i>, January 2022 - Present | <i>Adviser:</i> Julia Hirschberg
 			</span>
 			<span class="pub_info d-inline">
-				 Investigate relationship between dialog acts and code-switching, by adapting dialog act annota-
-tion scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to
-fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus,
-using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empa-
-thetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
+				 Investigate relationship between dialog acts and code-switching, by adapting dialog act annotation scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus, using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empathetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
 			</span>
 			</p>
 			</div>
@@ -110,16 +106,159 @@ thetic speech corpus by processing video, audio, text with Jupyter Notebooks, Pr
 				<i>Research Experiences for Undergraduates (REU) Intern</i>, May 2023 - August 2023 | <i>Adviser:</i> Jonathan Gratch
 			</span>
 			<span class="pub_info d-inline">
-				 Developed negotiating agent for online studies of human negotiation behaviors. Engineered
-large language model prompts for agent NLU/NLG with OpenAI API. Built user interface using
-HTML, CSS, JavaScript, Flask. Assembled Qualtrics survey for crowdworkers to evaluate agent.
+				 Developed negotiating agent for online studies of human negotiation behaviors. Engineered large language model prompts for agent NLU/NLG with OpenAI API. Built user interface using HTML, CSS, JavaScript, Flask. Assembled Qualtrics survey for crowdworkers to evaluate agent.
 			</span>
 			</p>
 			</div>
 		</li>
 	</ul>
 </div><!-- /.blog-post -->
+
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://vislang.ai/">
+				Vision, Language, and Learning Lab
+			</a>, Rice University, Department of Computer Science, Houston, TX
+			<span class="pub_authors d-lg-block">
+				<i>Distributed Research Experiences for Undergraduates (DREU) Intern</i>, May 2022 - July 2022 | <i>Adviser:</i> Vicente Ordóñez Román
+			</span>
+			<span class="pub_info d-inline">
+				 Quantified visual and linguistic complexity in MSCOCO image captioning dataset by creating and applying novel visual complexity metric, then fine-tuning BERT to predict visual complexity from image captions. Probed and mitigated content-related biases in resulting models.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/amr.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="http://www.cs.columbia.edu/nlp/index_nltp.cgi">
+				Natural Language Text Processing Lab
+			</a>, Columbia University, Department of Computer Science, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Data Annotator</i>, October 2021 – December 2021 | <i>Adviser:</i> Fei-Tzin Lee
+			</span>
+			<span class="pub_info d-inline">
+				 Generated semantic annotations for text generation/summarization in the literary domain.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/amr.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="http://www.cs.columbia.edu/nlp/index_nltp.cgi">
+				Natural Language Text Processing Lab
+			</a>, Columbia University, Department of Computer Science, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Data Annotator</i>, October 2021 – December 2021 | <i>Adviser:</i> Fei-Tzin Lee
+			</span>
+			<span class="pub_info d-inline">
+				 Generated semantic annotations for text generation/summarization in the literary domain.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/amr.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="http://www.columbia.edu/~jec34/">
+				Corter Lab
+			</a>, Columbia University, Department of Human Development, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Research Assistant</i>, March 2021 - June 2021 | <i>Adviser:</i> Katherine Moore
+			</span>
+			<span class="pub_info d-inline">
+				 Identified communication strategies in collaborative learning dialogues by annotating speech acts
+and analyzing n-gram frequencies with R. Assisted with onboarding new research assistants.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
 ## Teaching Experience
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/syntax.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			Columbia LING4903: Syntax, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Teaching Assistant</i>, September 2023 - December 2023
+			</span>
+			<span class="pub_info d-inline">
+				 Introduction to modern formal theories of syntax. Hold office hours, take attendance, and grade
+assignments.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/linalg.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			Columbia COMS3251: Computational Linear Algebra, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Course Assistant</i>, September 2022 - December 2022
+			</span>
+			<span class="pub_info d-inline">
+				 Introduction to linear algebra and its applications to data analysis. Hosted weekly office hours,
+moderated class discussion board, graded homework assignments, proctored final exam.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/esp.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.cs.columbia.edu/esp/">Columbia COMS1404: Emerging Scholars Program Seminar</a>, New York, NY
+			<span class="pub_authors d-lg-block">
+				<i>Workshop Assistant</i>, September 2021 – May 2022
+			</span>
+			<span class="pub_info d-inline">
+				 Facilitated introductory computer science seminar to increase retention of diverse undergradu-
+ates. Moderated discussions, took attendance, and emailed weekly announcements.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 
 ## Work Experience
 
