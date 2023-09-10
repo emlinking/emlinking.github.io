@@ -66,7 +66,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				[<a href="files/dreu_slides.pdf">Slides</a>] 
 				[<a href="files/poster_visual_complexity_lin_2022.pdf">Poster</a>] 
 				[<a href="https://github.com/uvavision/visual-complexity">Code</a>]
-				[<a href="/blog.html">Blog</a>]
+				[<a href="files/blog.html">Blog</a>]
 			</p>
 			</div>
 		</li>
