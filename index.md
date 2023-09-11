@@ -208,6 +208,43 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 </div><!-- /.blog-post -->
 
 ## Projects
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			
+			<img class="mr-3 img-thumbnail" src="images/captioning.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			COMS W4705: Natural Language Processing, Image Captioning Project
+			<span class="pub_authors d-lg-block">
+				May 2023
+			</span>
+			<span class="pub_info d-inline">
+				 Implemented image captioning system using bidirectional LSTM trained on Flickr 8k dataset, with Inception V3 as image encoder.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/asl.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			COMS W4701: Artificial Intelligence, Sign Language Classification Project
+			<span class="pub_authors d-lg-block">
+				December 2022
+			</span>
+			<span class="pub_info d-inline">
+				 Implemented convolutional neural network using Keras API of TensorFlow to interpret images of American Sign Language letters with 92.2% accuracy.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 
 ## Teaching Experience
 <div class="blog-post subtext p-2">
@@ -258,8 +295,7 @@ moderated class discussion board, graded homework assignments, proctored final e
 				<i>Workshop Assistant</i>, September 2021 – May 2022
 			</span>
 			<span class="pub_info d-inline">
-				 Facilitated introductory computer science seminar to increase retention of diverse undergradu-
-ates. Moderated discussions, took attendance, and emailed weekly announcements.
+				 Facilitated introductory computer science seminar to increase retention of diverse undergraduates. Moderated discussions, took attendance, and emailed weekly announcements.
 			</span>
 			</p>
 			</div>
