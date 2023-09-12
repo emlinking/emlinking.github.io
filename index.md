@@ -218,7 +218,7 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 				May 2023
 			</span>
 			<span class="pub_info d-inline">
-				 Implemented image captioning system using bidirectional LSTM trained on Flickr 8k dataset, with Inception V3 as image encoder.
+				 Implemented image captioning system trained on Flickr 8k dataset, using Inception V3 (for feature extraction) and bidirectional LSTM.
 			</span>
 			</p>
 			</div>
