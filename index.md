@@ -215,7 +215,7 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 			<img class="mr-3 img-thumbnail" src="images/captioning.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			COMS W4705: Natural Language Processing, Image Captioning Project
+			COMS W4705: Natural Language Processing, Image Captioning System
 			<span class="pub_authors d-lg-block">
 				May 2023
 			</span>
@@ -233,12 +233,52 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 			<img class="mr-3 img-thumbnail" src="images/asl.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			COMS W4701: Artificial Intelligence, Sign Language Classification Project
+			LING GU4120: Language Documentation and Field Methods, Documenting the Sakha Language
+			<span class="pub_authors d-lg-block">
+				March 2023 - May 2023
+			</span>
+			<span class="pub_info d-inline">
+			Elucidated and documented the phonology, morphology, and syntax of the Sakha language by interviewing native speaker and analyzing collected transcriptions and audio recordings. 
+			</span>
+				[<a href="files/phonology.pdf">Report on Sakha Phonology</a>] 
+				[<a href="files/nouns.pdf">Report on Sakha Nominal Morphology and Syntax</a>] 
+				[<a href="files/verbs_clauses.pdf">Report on Sakha Verbal Morphology and Clausal Syntax</a>] 
+				[<a href="files/texts.pdf">Analysis of Two Sakha Texts</a>]
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/dependency.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			COMS W4705: Natural language Processing, Dependency Parser
+			<span class="pub_authors d-lg-block">
+				April 2023
+			</span>
+			<span class="pub_info d-inline">
+				 Implemented neural network dependency parser using Keras API of TensorFlow and trained on WSJ subset of Penn Treebank corpus to achieve a macro average unlabeled attachment score of 76.17.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/asl.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			COMS W4701: Artificial Intelligence, American Sign Language Alphabet Recognition Model
 			<span class="pub_authors d-lg-block">
 				December 2022
 			</span>
 			<span class="pub_info d-inline">
-				 Implemented convolutional neural network using Keras API of TensorFlow to interpret images of American Sign Language letters with 92.2% accuracy.
+				 Designed and implemented convolutional neural network using Keras API of TensorFlow to interpret images of American Sign Language letters with 92.2% accuracy.
 			</span>
 			</p>
 			</div>
