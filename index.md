@@ -230,12 +230,12 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/asl.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/sakha.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			LING GU4120: Language Documentation and Field Methods, Documenting the Sakha Language
 			<span class="pub_authors d-lg-block">
-				March 2023 - May 2023
+				January 2023 - May 2023
 			</span>
 			<span class="pub_info d-inline">
 			Elucidated and documented the phonology, morphology, and syntax of the Sakha language by interviewing native speaker and analyzing collected transcriptions and audio recordings. 
@@ -255,7 +255,7 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 			<img class="mr-3 img-thumbnail" src="images/dependency.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			COMS W4705: Natural language Processing, Dependency Parser
+			COMS W4705: Natural Language Processing, Dependency Parser
 			<span class="pub_authors d-lg-block">
 				April 2023
 			</span>
