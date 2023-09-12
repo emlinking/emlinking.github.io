@@ -116,7 +116,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/speech_lab.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="http://www.cs.columbia.edu/speech/index.cgi">Speech Lab</a>, Columbia University, Department of Computer Science, New York, NY
+			<a class="blue_link" href="http://www.cs.columbia.edu/speech/index.cgi">Speech Lab</a>, Department of Computer Science, Columbia University, New York, NY
 			<span class="pub_authors d-lg-block">
 				<i>Research Assistant</i>, January 2022 - Present | <i>Adviser:</i> Julia Hirschberg
 			</span>
@@ -134,7 +134,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://emotions.ict.usc.edu/">Affective Computing Lab</a>, University of Southern California, Institute for Creative Technologies, Los Angeles, CA
+			<a class="blue_link" href="https://emotions.ict.usc.edu/">Affective Computing Lab</a>, Institute for Creative Technologies, University of Southern California, Los Angeles, CA
 			<span class="pub_authors d-lg-block">
 				<i>Research Experiences for Undergraduates (REU) Intern</i>, May 2023 - August 2023 | <i>Adviser:</i> Jonathan Gratch
 			</span>
@@ -153,7 +153,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://vislang.ai/">Vision, Language, and Learning Lab</a>, Rice University, Department of Computer Science, Houston, TX
+			<a class="blue_link" href="https://vislang.ai/">Vision, Language, and Learning Lab</a>, Department of Computer Science, Rice University, Houston, TX
 			<span class="pub_authors d-lg-block">
 				<i>Distributed Research Experiences for Undergraduates (DREU) Intern</i>, May 2022 - July 2022 | <i>Adviser:</i> Vicente Ordóñez Román
 			</span>
@@ -172,7 +172,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/amr.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="http://www.cs.columbia.edu/nlp/index_nltp.cgi">Natural Language Text Processing Lab</a>, Columbia University, Department of Computer Science, New York, NY
+			<a class="blue_link" href="http://www.cs.columbia.edu/nlp/index_nltp.cgi">Natural Language Text Processing Lab</a>, Department of Computer Science, Columbia University, New York, NY
 			<span class="pub_authors d-lg-block">
 				<i>Data Annotator</i>, October 2021 – December 2021 | <i>Adviser:</i> Fei-Tzin Lee
 			</span>
@@ -191,7 +191,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/J_trigrams.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="http://www.columbia.edu/~jec34/">Corter Lab</a>, Columbia University, Department of Human Development, New York, NY
+			<a class="blue_link" href="http://www.columbia.edu/~jec34/">Corter Lab</a>, Department of Human Development, Columbia University, New York, NY
 			<span class="pub_authors d-lg-block">
 				<i>Research Assistant</i>, March 2021 - June 2021 | <i>Adviser:</i> Katherine Moore
 			</span>
