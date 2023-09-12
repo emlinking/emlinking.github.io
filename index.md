@@ -7,7 +7,7 @@ title: Eleanor M. Lin
 
 <br />
 <br />
-<img src="images/IMG_0382.JPG" width="200"/>
+<img src="images/IMG_0382.JPG" style="height:198px;" class="float-left mr-3 mb-3 img-thumbnail img-fluid" alt="Eleanor Lin">
  
 <h3 id="name" class="p-0 m-0 mb-1">Eleanor M. Lin</h3>
 
