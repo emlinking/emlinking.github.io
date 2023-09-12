@@ -197,7 +197,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			</span>
 			<span class="pub_info d-inline">
 				 Identified communication strategies in collaborative learning dialogues by annotating speech acts
-and analyzing n-gram frequencies with R. Assisted with onboarding new research assistants.
+and analyzing n-gram frequencies with R. Assisted with onboarding new research assistants. [<a href="https://github.com/emlinking/collaborative-learning.git">Code</a>]
 			</span>
 			</p>
 			</div>
