@@ -30,7 +30,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<p class="my-auto">
 			<a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">
 				Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models
-			</a> 
+			</a><br> 
 			<span class="pub_authors d-lg-block">
 				<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch
 			</span>
@@ -53,7 +53,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<p class="my-auto">
 				<a class="blue_link" href="files/dreu_report.pdf">
 					Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
-				</a> 
+				</a><br>
 				<span class="pub_authors d-lg-block">
 					<u>Lin, E.</u>, Yang, Z., & Ordóñez, V.
 				</span>
@@ -116,10 +116,10 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/speech_lab.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="http://www.cs.columbia.edu/speech/index.cgi">Speech Lab</a>, Department of Computer Science, Columbia University, New York, NY
+			<a class="blue_link" href="http://www.cs.columbia.edu/speech/index.cgi">Speech Lab</a>, Department of Computer Science, Columbia University, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Research Assistant</i>, January 2022 - Present | <i>Adviser:</i> Julia Hirschberg
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Investigate relationship between dialog acts and code-switching, by adapting dialog act annotation scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus, using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empathetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
 			</span>
@@ -134,10 +134,10 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://emotions.ict.usc.edu/">Affective Computing Lab</a>, Institute for Creative Technologies, University of Southern California, Los Angeles, CA
+			<a class="blue_link" href="https://emotions.ict.usc.edu/">Affective Computing Lab</a>, Institute for Creative Technologies, University of Southern California, Los Angeles, CA<br>
 			<span class="pub_authors d-lg-block">
 				<i>Research Experiences for Undergraduates (REU) Intern</i>, May 2023 - August 2023 | <i>Adviser:</i> Jonathan Gratch
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Developed negotiating agent for online studies of human negotiation behaviors. Engineered large language model prompts for agent NLU/NLG with OpenAI API. Built user interface using HTML, CSS, JavaScript, Flask. Assembled Qualtrics survey for crowdworkers to evaluate agent.
 			</span>
@@ -153,10 +153,10 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://vislang.ai/">Vision, Language, and Learning Lab</a>, Department of Computer Science, Rice University, Houston, TX
+			<a class="blue_link" href="https://vislang.ai/">Vision, Language, and Learning Lab</a>, Department of Computer Science, Rice University, Houston, TX<br>
 			<span class="pub_authors d-lg-block">
 				<i>Distributed Research Experiences for Undergraduates (DREU) Intern</i>, May 2022 - July 2022 | <i>Adviser:</i> Vicente Ordóñez Román
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Quantified visual and linguistic complexity in MSCOCO image captioning dataset by creating and applying novel visual complexity metric, then fine-tuning BERT to predict visual complexity from image captions. Probed and mitigated content-related biases in resulting models.
 			</span>
@@ -172,10 +172,10 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/amr.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="http://www.cs.columbia.edu/nlp/index_nltp.cgi">Natural Language Text Processing Lab</a>, Department of Computer Science, Columbia University, New York, NY
+			<a class="blue_link" href="http://www.cs.columbia.edu/nlp/index_nltp.cgi">Natural Language Text Processing Lab</a>, Department of Computer Science, Columbia University, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Data Annotator</i>, October 2021 – December 2021 | <i>Adviser:</i> Fei-Tzin Lee
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Generated semantic annotations for text generation/summarization in the literary domain.
 			</span>
@@ -191,10 +191,10 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/J_trigrams.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="http://www.columbia.edu/~jec34/">Corter Lab</a>, Department of Human Development, Columbia University, New York, NY
+			<a class="blue_link" href="http://www.columbia.edu/~jec34/">Corter Lab</a>, Department of Human Development, Columbia University, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Research Assistant</i>, March 2021 - June 2021 | <i>Adviser:</i> Katherine Moore
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Identified communication strategies in collaborative learning dialogues by annotating speech acts
 and analyzing n-gram frequencies with R. Assisted with onboarding new research assistants. [<a href="https://github.com/emlinking/collaborative-learning.git">Code</a>]
@@ -213,10 +213,10 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 			<img class="mr-3 img-thumbnail" src="images/captioning.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			COMS W4705: Natural Language Processing, Image Captioning System
+			COMS W4705: Natural Language Processing, Image Captioning System<br>
 			<span class="pub_authors d-lg-block">
 				May 2023
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Implemented image captioning system trained on Flickr 8k dataset, using Inception V3 (for feature extraction) and bidirectional LSTM.
 			</span>
@@ -231,10 +231,10 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 			<img class="mr-3 img-thumbnail" src="images/sakha.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			LING GU4120: Language Documentation and Field Methods, Documenting the Sakha Language
+			LING GU4120: Language Documentation and Field Methods, Documenting the Sakha Language<br>
 			<span class="pub_authors d-lg-block">
 				January 2023 - May 2023
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 			Elucidated and documented the phonology, morphology, and syntax of the Sakha language by interviewing native speaker and analyzing collected transcriptions and audio recordings. 
 			</span>
@@ -253,10 +253,10 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 			<img class="mr-3 img-thumbnail" src="images/dependency.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			COMS W4705: Natural Language Processing, Dependency Parser
+			COMS W4705: Natural Language Processing, Dependency Parser<br>
 			<span class="pub_authors d-lg-block">
 				April 2023
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Implemented neural network dependency parser using Keras API of TensorFlow and trained on WSJ subset of Penn Treebank corpus to achieve a macro average unlabeled attachment score of 76.17.
 			</span>
@@ -271,10 +271,10 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 			<img class="mr-3 img-thumbnail" src="images/asl.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			COMS W4701: Artificial Intelligence, American Sign Language Alphabet Recognition Model
+			COMS W4701: Artificial Intelligence, American Sign Language Alphabet Recognition Model<br>
 			<span class="pub_authors d-lg-block">
 				December 2022
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Designed and implemented convolutional neural network using Keras API of TensorFlow to interpret images of American Sign Language letters with 92.2% accuracy.
 			</span>
@@ -290,10 +290,10 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 		<li class="media">
 			<div class="media-body">
 			<p class="my-auto">
-			Columbia LING4903: Syntax, New York, NY
+			Columbia LING4903: Syntax, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Teaching Assistant</i>, September 2023 - December 2023
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Introduction to modern formal theories of syntax. Hold office hours, take attendance, and grade
 assignments.
@@ -309,10 +309,10 @@ assignments.
 		<li class="media">
 			<div class="media-body">
 			<p class="my-auto">
-			Columbia COMS3251: Computational Linear Algebra, New York, NY
+			Columbia COMS3251: Computational Linear Algebra, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Course Assistant</i>, September 2022 - December 2022
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Introduction to linear algebra and its applications to data analysis. Hosted weekly office hours,
 moderated class discussion board, graded homework assignments, proctored final exam.
@@ -328,10 +328,10 @@ moderated class discussion board, graded homework assignments, proctored final e
 		<li class="media">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://www.cs.columbia.edu/esp/">Columbia COMS1404: Emerging Scholars Program Seminar</a>, New York, NY
+			<a class="blue_link" href="https://www.cs.columbia.edu/esp/">Columbia COMS1404: Emerging Scholars Program Seminar</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Workshop Assistant</i>, September 2021 – May 2022
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Facilitated introductory computer science seminar to increase retention of diverse undergraduates. Moderated discussions, took attendance, and emailed weekly announcements.
 			</span>
@@ -347,16 +347,16 @@ moderated class discussion board, graded homework assignments, proctored final e
 		<li class="media">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Columbia Daily Spectator</a>, New York, NY
+			<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Columbia Daily Spectator</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Graphics Deputy Editor</i>, January 2022 – May 2022
-			</span>
+			</span><br>
 			<span class="pub_authors d-lg-block">
 				<i>Graphics Trainee</i>, October 2021 – December 2021
-			</span>
+			</span><br>
 			<span class="pub_authors d-lg-block">
 				<i>Summer Fellow</i>, July 2020
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				 Reported stories incorporating data analysis and visualization using Python, Adobe Illustrator, HTML, and CSS. [<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Articles</a>]
 			</span>
@@ -372,10 +372,10 @@ moderated class discussion board, graded homework assignments, proctored final e
 		<li class="media">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY
+			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - December 2022
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				Supported a current sophomore majoring in computer science with one-on-one academic and preprofessional advising.
 			</span>
