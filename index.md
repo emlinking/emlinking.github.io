@@ -73,15 +73,17 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 ## Awards
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
-	<li class="media">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			REU Travel Grant, National Science Foundation, 2023<br>
-			<span class="pub_info d-inline">
-				<i>Awarded $1200 to attend MobiHoc '23 and present my paper, <a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models</a>.</i>
-			</span>
-			</p></div>
+				REU Travel Grant, National Science Foundation, 2023<br>
+				<span class="pub_info d-inline">
+					<i>Awarded $1200 to attend MobiHoc '23 and present my paper, <a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models</a>.
+					</i>
+				</span>
+			</p>
+			</div>
 		</li>
 	</ul>
 </div><!-- /.blog-post -->
@@ -100,16 +102,17 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="100" alt="">
-			<div class="media-body">
+		<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="100" alt="">
+		<div class="media-body">
 			<p class="my-auto">
 				Fulbright-Hays Group Projects Abroad (GPA) Fellowship for Advanced Overseas Chinese Language Study (Declined), American Councils for International Education, 2023<br>
-			<span class="pub_info d-inline">
-				<i>Awarded $7915 to cover cost of attendance for Taiwan Intensive Summer Language Program.</i>
-			</span>
-			</p></div>
+				<span class="pub_info d-inline">
+					<i>Awarded $7915 to cover cost of attendance for Taiwan Intensive Summer Language Program.</i>
+				</span>
+			</p>
+		</div>
 	</li>
-</ul>
+	</ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
@@ -128,7 +131,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 <ul class="list-unstyled">
 	<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
 			<p class="my-auto">
 			Dean's List, Columbia College, 2022
 			</p>
@@ -139,7 +142,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/google.jpg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/google.svg" width="100" alt="">
 			<p class="my-auto">
 				<a class="blue_link" href="https://research.google/outreach/csrmp/recipients/?category=2021">Computer Science Research Mentorship Program Scholar</a>, Google, 2021
 			</p>
@@ -150,7 +153,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
+		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
 			<p class="my-auto">
 			Dean's List, Columbia College, 2021
 			</p>
@@ -161,7 +164,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
+		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
 			<p class="my-auto">
 			Dean's List, Columbia College, 2020
 			</p>
