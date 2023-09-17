@@ -72,37 +72,90 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 
 ## Awards
 <div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
+	<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			REU Travel Grant, National Science Foundation, 2023<br>
 			<span class="pub_info d-inline">
 				<i>Awarded $1200 to attend MobiHoc '23 and present my paper, <a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models</a>.</i>
 			</span>
-			</p>
-			<br>
-			<p class="my-auto">
-			Dean's List, Columbia College, 2020 – Present<br>
-			</p>
-				<br>
+			</p></div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
+			<div class="media-body">
 			<p class="my-auto">
 				NSF Research Experiences for Undergraduates Intern, University of Southern California, 2023
-			</p><br>
+			</p>
+			</div>
+	</li>
+</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="100" alt="">
+			<div class="media-body">
 			<p class="my-auto">
-				Fulbright-Hays Scholarship (Declined), American Councils for International Education, 2023<br>
+				Fulbright-Hays Group Projects Abroad (GPA) Fellowship for Advanced Overseas Chinese Language Study (Declined), American Councils for International Education, 2023<br>
 			<span class="pub_info d-inline">
 				<i>Awarded $7915 to cover cost of attendance for Taiwan Intensive Summer Language Program.</i>
 			</span>
-			</p><br>
+			</p></div>
+	</li>
+</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/dreu.jpg" width="100" alt="">
 			<p class="my-auto">
 				Distributed Research Experiences for Undergraduates Intern, Computing Research Association, 2022<br>
 			<span class="pub_info d-inline">
 				<i>Awarded $7000 to conduct research at Rice University with Professor Vicente Ordóñez Román.</i>
 			</span>
-			</p><br>
+			</p>
+		</div>
+	</li>
+</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
+			<p class="my-auto">
+			Dean's List, Columbia College, 2022
+			</p>
+		</div>
+	</li>
+</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/google.jpg" width="100" alt="">
 			<p class="my-auto">
 				<a class="blue_link" href="https://research.google/outreach/csrmp/recipients/?category=2021">Computer Science Research Mentorship Program Scholar</a>, Google, 2021
+			</p>
+		</div>
+	</li>
+</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<li class="media">
+		<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
+			<p class="my-auto">
+			Dean's List, Columbia College, 2021
+			</p>
+		</div>
+	</li>
+</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<li class="media">
+		<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
+			<p class="my-auto">
+			Dean's List, Columbia College, 2020
 			</p>
 			</div>
 		</li>
@@ -288,6 +341,7 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/syntax.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			Columbia LING4903: Syntax, New York, NY<br>
@@ -307,6 +361,7 @@ assignments.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/cla.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			Columbia COMS3251: Computational Linear Algebra, New York, NY<br>
@@ -326,6 +381,7 @@ moderated class discussion board, graded homework assignments, proctored final e
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/esp.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			<a class="blue_link" href="https://www.cs.columbia.edu/esp/">Columbia COMS1404: Emerging Scholars Program Seminar</a>, New York, NY<br>
@@ -345,20 +401,52 @@ moderated class discussion board, graded homework assignments, proctored final e
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/spec.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Columbia Daily Spectator</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Graphics Deputy Editor</i>, January 2022 – May 2022
 			</span><br>
+			<span class="pub_info d-inline">
+				 Reported stories incorporating data analysis and visualization using Python, Adobe Illustrator, HTML, and CSS. Co-authored article on disparities in access to healthy food in local area, including interactive map of food sources. Provided data visualizations for article on COVID-19 vaccination rate disparities between different demographic groups. Recruited and trained reporters in data journalism. [<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Articles</a>]
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/spec.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Columbia Daily Spectator</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Graphics Trainee</i>, October 2021 – December 2021
 			</span><br>
+			<span class="pub_info d-inline">
+				 Reported story on student mental health in online communities, including communicating methodology and results of social media data analysis. [<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Articles</a>]
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/spec.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Columbia Daily Spectator</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Summer Fellow</i>, July 2020
 			</span><br>
 			<span class="pub_info d-inline">
-				 Reported stories incorporating data analysis and visualization using Python, Adobe Illustrator, HTML, and CSS. [<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Articles</a>]
+				Pitched, wrote, and published ~3,000-word feature in <i>The Eye</i> magazine, working on a two-week deadline. Conferred with editors,
+conducted background research, interviewed 6 sources, and wrote article. [<a class="blue_link" href="https://www.columbiaspectator.com/contributors/Eleanor-Lin/">Articles</a>]
 			</span>
 			</p>
 			</div>
@@ -370,6 +458,7 @@ moderated class discussion board, graded homework assignments, proctored final e
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/adi.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY<br>
