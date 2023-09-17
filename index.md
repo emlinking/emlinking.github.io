@@ -72,6 +72,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 
 ## Awards
 <div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
 			<div class="media-body">
@@ -85,6 +86,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 	</ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
 			<div class="media-body">
@@ -96,6 +98,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 </ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="100" alt="">
 			<div class="media-body">
@@ -109,6 +112,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 </ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/dreu.jpg" width="100" alt="">
 			<p class="my-auto">
@@ -122,6 +126,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 </ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
+<ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
 			<p class="my-auto">
@@ -132,6 +137,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 </ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/google.jpg" width="100" alt="">
 			<p class="my-auto">
@@ -142,6 +148,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 </ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
 	<li class="media">
 		<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
 			<p class="my-auto">
@@ -152,6 +159,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 </ul>
 </div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
 	<li class="media">
 		<img class="mr-3 img-thumbnail" src="images/columbia.jpg" width="100" alt="">
 			<p class="my-auto">
