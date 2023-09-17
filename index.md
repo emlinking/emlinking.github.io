@@ -117,7 +117,8 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/dreu.jpg" width="100" alt="">
+		<img class="mr-3 img-thumbnail" src="images/dreu.jpg" width="100" alt="">
+		<div class="media-body">
 			<p class="my-auto">
 				Distributed Research Experiences for Undergraduates Intern, Computing Research Association, 2022<br>
 			<span class="pub_info d-inline">
@@ -132,6 +133,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+		<div class="media-body">
 			<p class="my-auto">
 			Dean's List, Columbia College, 2022
 			</p>
@@ -143,6 +145,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 	<ul class="list-unstyled">
 	<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/google.svg" width="100" alt="">
+		<div class="media-body">
 			<p class="my-auto">
 				<a class="blue_link" href="https://research.google/outreach/csrmp/recipients/?category=2021">Computer Science Research Mentorship Program Scholar</a>, Google, 2021
 			</p>
@@ -154,6 +157,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 	<ul class="list-unstyled">
 	<li class="media">
 		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+		<div class="media-body">
 			<p class="my-auto">
 			Dean's List, Columbia College, 2021
 			</p>
@@ -165,6 +169,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 	<ul class="list-unstyled">
 	<li class="media">
 		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+		<div class="media-body">
 			<p class="my-auto">
 			Dean's List, Columbia College, 2020
 			</p>
@@ -372,7 +377,7 @@ assignments.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/cla.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/cla.svg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			Columbia COMS3251: Computational Linear Algebra, New York, NY<br>
