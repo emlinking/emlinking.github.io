@@ -12,7 +12,7 @@ title: Eleanor M. Lin
 <h3 id="name" class="p-0 m-0 mb-1">Eleanor M. Lin</h3>
 
 B. A. Candidate, Computer Science and Linguistics  
-[Department of Computer Science](https://www.cs.columbia.edu/) and [Program of Linguistics](https://slavic.columbia.edu/content/linguistics)  
+[Department of Computer Science](https://www.cs.columbia.edu/) and Program of Linguistics
 Columbia University  
 e.lin2@columbia.edu
 
@@ -474,6 +474,42 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/wics.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://cuwics.github.io/">Columbia University Women in Computer Science</a>, New York, NY<br>
+			<span class="pub_authors d-lg-block">
+				<i>Academic Committee Co-Lead</i>, August 2023 - Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Organize academic-related programming to support gender-diverse Columbia University computer science students, including workshops on course selection, research opportunities, and topics such as machine learning. Host weekly coffee chats to provide students with advising on computer science internships, research, and courses. 
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/wics.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://cuwics.github.io/">Columbia University Women in Computer Science</a>, New York, NY<br>
+			<span class="pub_authors d-lg-block">
+				<i>Community Committee Chair</i>, August 2022 - May 2023
+			</span><br>
+			<span class="pub_info d-inline">
+				Organized activities focused on building a gender-diverse community of Columbia University computer science students, including an information session introducing the technical interview process, as well as social activities such as arts and crafts nights. Hosted weekly coffee chats to provide students with advising on computer science internships, research, and courses. 
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/adi.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
@@ -482,7 +518,7 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - December 2022
 			</span><br>
 			<span class="pub_info d-inline">
-				Supported a current sophomore majoring in computer science with one-on-one academic and preprofessional advising.
+				Supported a sophomore majoring in computer science with one-on-one academic and preprofessional advising.
 			</span>
 			</p>
 			</div>
