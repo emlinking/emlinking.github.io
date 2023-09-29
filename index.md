@@ -34,9 +34,9 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch
 			</span>
 			<span class="pub_info d-inline">
-				 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. 
+				 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3565287.3617637
 			</span>
-			[<a href="https://doi.org/10.1145/3565287.3617637">Paper</a>] 
+			[<a href="files/negotiation_paper.pdf">Paper</a>] 
 			</p>
 			</div>
 		</li>
@@ -63,6 +63,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				[<a href="files/dreu_slides.pdf">Slides</a>] 
 				[<a href="files/poster_visual_complexity_lin_2022.pdf">Poster</a>] 
 				[<a href="https://github.com/emlinking/visual-complexity">Code</a>]
+				[<a href="/blog.html">Blog</a>]
 			</p>
 			</div>
 		</li>
@@ -189,7 +190,8 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 				<i>Research Assistant</i>, January 2022 - Present | <i>Adviser:</i> Julia Hirschberg
 			</span><br>
 			<span class="pub_info d-inline">
-				 Investigate relationship between dialog acts and code-switching, by adapting dialog act annotation scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus, using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empathetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
+				 Investigate relationship between empathy and code-switching by detecting empathetic utterances
+in code-switched speech, using RoBERTa fine-tuned for empathy detection. Investigate relationship between dialog acts and code-switching, by adapting dialog act annotation scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus, using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empathetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
 			</span>
 			</p>
 			</div>
