@@ -470,6 +470,46 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 	</ul>
 </div><!-- /.blog-post -->
 
+## Science Communication
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/csr.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.thecolumbiasciencereview.com/">Columbia Science Review</a>, New York, NY<br>
+			<span class="pub_authors d-lg-block">
+				<i>Writer</i>, October 2020 – December 2021
+			</span>
+			<span class="pub_info d-inline">
+				Wrote biweekly articles on topics including environmental science, computational social science, biochemistry, and
+mathematics.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/csr.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.thecolumbiasciencereview.com/">Columbia Science Review</a>, New York, NY<br>
+			<span class="pub_authors d-lg-block">
+				<i>COVID-19 Public Hub Co-Leader</i>, October 2020 – May 2021
+			</span><br>
+			<span class="pub_info d-inline">
+				Launched Instagram account (@csrcovidhub) to provide Columbia-relevant COVID-19 information to 200+
+followers.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
 ## Service
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
