@@ -518,7 +518,7 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - Present
 			</span><br>
 			<span class="pub_info d-inline">
-				Supported a sophomore majoring in computer science with one-on-one academic and preprofessional advising.
+				Currently supporting a Columbia University first-year undergraduate (and previously supported a second-year undergraduate) majoring in computer science with one-on-one academic and preprofessional advising.
 			</span>
 			</p>
 			</div>
