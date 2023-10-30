@@ -515,7 +515,7 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 			<p class="my-auto">
 			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
-				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - December 2022
+				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - Present
 			</span><br>
 			<span class="pub_info d-inline">
 				Supported a sophomore majoring in computer science with one-on-one academic and preprofessional advising.
