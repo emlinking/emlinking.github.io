@@ -480,7 +480,7 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 			<a class="blue_link" href="https://www.thecolumbiasciencereview.com/">Columbia Science Review</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Writer</i>, October 2020 – December 2021
-			</span>
+			</span><br>
 			<span class="pub_info d-inline">
 				Wrote biweekly articles on topics including environmental science, computational social science, biochemistry, and
 mathematics.
