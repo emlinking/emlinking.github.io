@@ -69,7 +69,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 	</ul>
 </div><!-- /.blog-post -->
 
-## Awards
+## Grants, Awards, and Academic Honors
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
