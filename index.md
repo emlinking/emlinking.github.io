@@ -73,6 +73,21 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/UPEkey_portrait_no_bk-768x1024.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				<a class="blue_link" href="https://upe.acm.org/">Upsilon Pi Epsilon (International Honor Society for the Computing and Information Disciplines)</a> Member, Columbia University, 2023<br>
+				<span class="pub_info d-inline">
+					<i>Awarded in recognition of GPA in the top 15% of computer and information science juniors and seniors at Columbia</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
