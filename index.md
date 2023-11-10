@@ -24,19 +24,38 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/swda.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialogue Act Prediction in Conversation<br>
+			<span class="pub_authors d-lg-block">
+				Run Chen, <u>Eleanor Lin</u>, Shayan Hooshmand, Mariam Mustafa, Rose Sloan, Alicia Yang, Andrea Lopez, Ansh Kothary,
+Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
+			</span>
+			<span class="pub_info d-inline">
+				 <i>(In preparation)</i>
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">
-				Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models
-			</a><br> 
-			<span class="pub_authors d-lg-block">
-				<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch
-			</span>
-			<span class="pub_info d-inline">
-				 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3565287.3617637
-			</span>
-			[<a href="files/negotiation_paper.pdf">Paper</a>] [<a href="files/REUNS 2023 .pptx">Slides</a>] [<a href="images/llm_nego.png">Poster</a>]
+				<a class="blue_link" href="https://doi.org/10.1145/3565287.3617637">
+					Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models
+				</a><br> 
+				<span class="pub_authors d-lg-block">
+					<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch
+				</span>
+				<span class="pub_info d-inline">
+					 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3565287.3617637
+				</span>
+				[<a href="files/negotiation_paper.pdf">Paper</a>] [<a href="files/REUNS 2023 .pptx">Slides</a>] [<a href="images/llm_nego.png">Poster</a>]
 			</p>
 			</div>
 		</li>
