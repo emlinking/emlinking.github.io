@@ -29,11 +29,11 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<p class="my-auto">
 				RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialogue Act Prediction in Conversation<br>
 			<span class="pub_authors d-lg-block">
-				Run Chen, <u>Eleanor Lin</u>, Shayan Hooshmand, Mariam Mustafa, Rose Sloan, Alicia Yang, Andrea Lopez, Ansh Kothary,
+				Run Chen, <u>Eleanor Lin</u>, Shayan Hooshmand, Mariam Mustafa, Rose Sloan, Ritika Nandi, Alicia Yang, Andrea Lopez, Ansh Kothary,
 Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
-				 <i>(In preparation)</i>
+				 <i>(Submitted to IWSDS 2024)</i>
 			</span>
 			</p>
 			</div>
