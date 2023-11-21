@@ -43,6 +43,24 @@ Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Detecting Empathy in Speech<br>
+			<span class="pub_authors d-lg-block">
+				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Julia Hirschberg.
+			</span>
+			<span class="pub_info d-inline">
+				 <i>(Submitted to ICASSP 2024)</i>
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
