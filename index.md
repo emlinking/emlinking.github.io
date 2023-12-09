@@ -15,7 +15,7 @@ B. A. Candidate, Computer Science and Linguistics
 [Department of Computer Science](https://www.cs.columbia.edu/) and Program of Linguistics, Columbia University  
 e.lin2@columbia.edu
 
-I am a senior double-majoring in linguistics and computer science at Columbia University. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I currently research code-switching, under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. (You can read more about my research at Rice, which was funded through the Distributed Research Experiences for Undergraduates Program, on my [project blog](blog.html).) Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_Updated_November_2023.pdf).
+I am a senior double-majoring in linguistics and computer science at Columbia University. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I currently research code-switching, under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. (You can read more about my research at Rice, which was funded through the Distributed Research Experiences for Undergraduates Program, on my [project blog](blog.html).) Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_December_2023.pdf).
 
 * TOC
 {:toc}
@@ -27,7 +27,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/swda.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-				RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialogue Act Prediction in Conversation<br>
+				RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialog Act Prediction in Conversation<br>
 			<span class="pub_authors d-lg-block">
 				Run Chen, <u>Eleanor Lin</u>, Shayan Hooshmand, Mariam Mustafa, Rose Sloan, Ritika Nandi, Alicia Yang, Andrea Lopez, Ansh Kothary,
 Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
@@ -107,6 +107,21 @@ Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 </div><!-- /.blog-post -->
 
 ## Grants, Awards, and Academic Honors
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/pbk.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				<a class="blue_link" href="https://www.college.columbia.edu/news/class-2024-junior-phi-beta-kappa-initiates-announced">Junior Phi Beta Kappa</a>, Columbia University, 2023<br>
+				<span class="pub_info d-inline">
+					<i>Awarded to 2% of the Columbia College Class of 2024 (26 students) in recognition of breadth, depth, and rigor in scholarship</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
@@ -531,7 +546,7 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 			<p class="my-auto">
 			<a class="blue_link" href="https://www.thecolumbiasciencereview.com/">Columbia Science Review</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
-				<i>Writer</i>, October 2020 – December 2021
+				<i>Writer</i>, September 2020 – December 2021
 			</span><br>
 			<span class="pub_info d-inline">
 				Wrote biweekly articles on topics including environmental science, computational social science, biochemistry, and
@@ -574,7 +589,7 @@ followers.
 				<i>Academic Committee Co-Lead</i>, August 2023 - Present
 			</span><br>
 			<span class="pub_info d-inline">
-				Organize academic-related programming to support gender-diverse Columbia University computer science students, including workshops on course selection, research opportunities, and topics such as machine learning. Host weekly coffee chats to provide students with advising on computer science internships, research, and courses. 
+				Organize academic-related programming to support gender-diverse Columbia University computer science students, including workshops on course selection and lunches with female computer science professors. Host weekly coffee chats to provide students with advising on computer science internships, research, and courses. 
 			</span>
 			</p>
 			</div>
@@ -617,6 +632,9 @@ followers.
 		</li>
 	</ul>
 </div><!-- /.blog-post -->
+
+## Creative Writing
+Since November 2021, I have written the occasional <a class="blue_link" href="https://quartomagazine.com/poetry/transcendence">poem</a> for <a class="blue_link" href="https://quartomagazine.com/">Quarto</a>, the official magazine of Columbia University’s Undergraduate Creative Writing Program.
 
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
