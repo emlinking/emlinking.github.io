@@ -24,6 +24,24 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				An Open-Source Dataset and Models for Speech-to-Speech Translation Between English and Taiwanese<br>
+			<span class="pub_authors d-lg-block">
+				<u>Eleanor Lin</u>.
+			</span>
+			<span class="pub_info d-inline">
+				 <i>(Undergraduate thesis in preparation)</i>
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/swda.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
