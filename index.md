@@ -15,7 +15,7 @@ B. A. Candidate, Computer Science and Linguistics
 [Department of Computer Science](https://www.cs.columbia.edu/) and Program of Linguistics, Columbia University  
 e.lin2@columbia.edu
 
-I am a senior double-majoring in linguistics and computer science at Columbia University. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I currently research code-switching, under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. (You can read more about my research at Rice, which was funded through the Distributed Research Experiences for Undergraduates Program, on my [project blog](blog.html).) Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_December_2023.pdf).
+I am a senior double-majoring in linguistics and computer science at Columbia University. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I currently research code-switching, under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_December_2023.pdf).
 
 * TOC
 {:toc}
@@ -118,6 +118,7 @@ Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 				[<a href="files/dreu_slides.pdf">Slides</a>] 
 				[<a href="files/poster_visual_complexity_lin_2022.pdf">Poster</a>] 
 				[<a href="https://github.com/emlinking/visual-complexity">Code</a>]
+				[<a href="https://emlinking.github.io/blog/">Project Blog</a>]
 			</p>
 			</div>
 		</li>
@@ -652,7 +653,7 @@ followers.
 </div><!-- /.blog-post -->
 
 ## Creative Writing
-I write the occasional [poem]{{ site.baseurl }}{% link writing.md %}.
+I write the occasional <a href="https://emlinking.github.io/writing">poem</a>.
 
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
