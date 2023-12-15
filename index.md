@@ -652,7 +652,7 @@ followers.
 </div><!-- /.blog-post -->
 
 ## Creative Writing
-Since November 2021, I have written the occasional <a class="blue_link" href="https://quartomagazine.com/poetry/transcendence">poem</a> for <a class="blue_link" href="https://quartomagazine.com/">Quarto</a>, the official magazine of Columbia University’s Undergraduate Creative Writing Program.
+I write the occasional [poem]{{ site.baseurl }}{% link writing.md %}.
 
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
