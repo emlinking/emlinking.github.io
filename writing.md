@@ -3,7 +3,6 @@ layout: page
 title: "Creative Writing"
 permalink: /writing/
 ---
-# Creative Writing
 Since November 2021, I have written the occasional poem for <a href="https://quartomagazine.com/">Quarto</a>, the official magazine of Columbia University’s Undergraduate Creative Writing Program, and my chapbook was selected as a runner-up in their 2023 contest.
 I was also selected as a finalist for the <a href="https://www.taiwaneseamerican.org/2022/05/2022-creative-writing-recipients/">2022 Betty L. Yu & Jin C. Yu Creative Writing Prizes</a>.
 
