@@ -129,6 +129,20 @@ Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/cra-ura.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				<a class="blue_link" href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">Outstanding Undergraduate Researcher Award - Honorable Mention</a>, Computing Research Association, 2023<br>
+				<span class="pub_info d-inline">
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/pbk.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
