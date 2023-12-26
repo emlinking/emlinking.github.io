@@ -378,7 +378,25 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			
+			<img class="mr-3 img-thumbnail" src="images/sociolinguistic-profile.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			LING UN3102: Endangered Languages in the Global City, "Toward a Sociolinguistic Profile of Taiwanese Americans" (Final Project)<br>
+			<span class="pub_authors d-lg-block">
+				December 2023
+			</span><br>
+			<span class="pub_info d-inline">
+				In order to understand Taiwanese Americans’ relationships with both Mandarin and languages other than Mandarin, this study works toward a sociolinguistic profile of Taiwanese Americans by reporting the results of interviewing and/or surveying 33 Taiwanese Americans.
+			</span>
+   				[<a href="files/Toward_a_Sociolinguistic_Profile_of_Taiwanese_Americans.pdf">Paper</a>]
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/captioning.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
