@@ -13,3 +13,5 @@ I was also selected as a finalist for the <a href="https://www.taiwaneseamerican
 - "Transcendence." 2021. <i>Quarto</i>, Quarto Magazine, <a href="https://quartomagazine.com/poetry/transcendence">https://quartomagazine.com/poetry/transcendence</a>.
 - "Mother Tongue." 2021. <i>Quarto</i>, Quarto Magazine, <a href="https://quartomagazine.com/poetry/mother-tongue">https://quartomagazine.com/poetry/mother-tongue</a>.
 - "Art History." 2021. <i>The Blue and White</i>, The Blue and White, <a href="https://www.theblueandwhite.org/post/art-history">https://www.theblueandwhite.org/post/art-history</a>.
+
+<a href="https://emlinking.github.io">Back to homepage</a>
