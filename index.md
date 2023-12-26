@@ -27,7 +27,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-				An Open-Source Dataset and Models for Speech-to-Speech Translation Between English and Taiwanese<br>
+				Developing Performant Models for Speech-to-Speech Translation Between English and Taiwanese Using Free and Publicly Available Data<br>
 			<span class="pub_authors d-lg-block">
 				<u>Eleanor Lin</u>.
 			</span>
@@ -51,7 +51,7 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
-				 <i>(Submitted to IWSDS 2024)</i>
+				 <i>(Accepted to 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS 2024))</i>
 			</span>
 			</p>
 			</div>
@@ -69,7 +69,7 @@ Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
-				 <i>(Submitted to ICASSP 2024)</i>
+				 <i>(Submitted to Speech Prosody 2024)</i>
 			</span>
 			</p>
 			</div>
