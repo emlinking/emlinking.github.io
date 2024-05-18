@@ -225,7 +225,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
 		<div class="media-body">
 			<p class="my-auto">
-			Dean's List, Columbia College, 2020 - 2024 (Expected)
+			Dean's List, Columbia College, Expected 2020 - 2024
 			</p>
 			</div>
 		</li>
