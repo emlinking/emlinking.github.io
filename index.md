@@ -140,7 +140,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 				<span class="pub_info d-inline">
 					Emory Undergraduate Linguistics Conference, Online, April 2024. 
 				</span>
-				[<a href="files/Toward_a_Sociolinguistic_Profile_of_Taiwanese_Americans.pdf">Paper</a>] 
+				[<a href="files/Toward_a_Sociolinguistic_Profile_of_Taiwanese_Americans.pdf">Working Paper</a>] 
 				[<a href="files/eulc_slides.pdf">Slides</a>] 
 			</p>
 			</div>
