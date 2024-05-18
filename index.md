@@ -72,7 +72,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-				Developing Performant Models for Speech-to-Speech Translation Between English and Taiwanese Using Free and Publicly Available Data<br>
+				Developing Performant Models for Translating Spoken Taiwanese Into Spoken English Using Free and Publicly Available Resources<br>
 			<span class="pub_authors d-lg-block">
 				<u>Eleanor Lin.</u>
 			</span>
