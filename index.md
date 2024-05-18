@@ -706,7 +706,7 @@ followers.
 			<p class="my-auto">
 			<a class="blue_link" href="https://cuwics.github.io/">Columbia University Women in Computer Science</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
-				<i>Academic Committee Co-Lead</i>, August 2023 - Present
+				<i>Academic Committee Co-Lead</i>, August 2023 - May 2024
 			</span><br>
 			<span class="pub_info d-inline">
 				Organize academic-related programming to support gender-diverse Columbia University computer science students, including workshops on course selection and lunches with female computer science professors. Host weekly coffee chats to provide students with advising on computer science internships, research, and courses. 
