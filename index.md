@@ -742,7 +742,7 @@ followers.
 			<p class="my-auto">
 			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
-				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - Present
+				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - December 2023
 			</span><br>
 			<span class="pub_info d-inline">
 				Currently supporting a Columbia University first-year undergraduate (and previously supported a second-year undergraduate) majoring in computer science with one-on-one academic and preprofessional advising.
