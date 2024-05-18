@@ -11,34 +11,15 @@ title: Eleanor M. Lin
  
 <h3 id="name" class="p-0 m-0 mb-1">Eleanor M. Lin</h3>
 
-B. A. Candidate, Computer Science and Linguistics  
-[Department of Computer Science](https://www.cs.columbia.edu/) and Program of Linguistics, Columbia University  
-Email: e.lin2@columbia.edu | [GitHub](https://github.com/emlinking) | [LinkedIn](https://www.linkedin.com/in/eleanor-lin)
+Email: elealin@umich.edu | [GitHub](https://github.com/emlinking) | [LinkedIn](https://www.linkedin.com/in/eleanor-lin)
 
-I am a senior double-majoring in linguistics and computer science at Columbia University. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I currently research code-switching, under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_December_2023.pdf).
+I am an incoming [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan, starting in August 2024. I obtained my B.A. at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_December_2023.pdf).
 
 * TOC
 {:toc}
 
 ## Publications
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
-			<div class="media-body">
-			<p class="my-auto">
-				Developing Performant Models for Speech-to-Speech Translation Between English and Taiwanese Using Free and Publicly Available Data<br>
-			<span class="pub_authors d-lg-block">
-				<u>Eleanor Lin</u>.
-			</span>
-			<span class="pub_info d-inline">
-				 <i>(Undergraduate thesis in preparation)</i>
-			</span>
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
+### Refereed Publications
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
@@ -51,26 +32,10 @@ I am a senior double-majoring in linguistics and computer science at Columbia Un
 Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
-				 <i>(Accepted to 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS 2024))</i>
+				 <i>International Workshop on Spoken Dialogue
+Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			</span>
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
-			<div class="media-body">
-			<p class="my-auto">
-				Detecting Empathy in Speech<br>
-			<span class="pub_authors d-lg-block">
-				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Julia Hirschberg.
-			</span>
-			<span class="pub_info d-inline">
-				 <i>(Submitted to Speech Prosody 2024)</i>
-			</span>
+			[<a href="https://www.cs.columbia.edu/speech/PaperFiles/2024/iwsds24_raswda_paper.pdf">Paper</a>] 
 			</p>
 			</div>
 		</li>
@@ -89,9 +54,67 @@ Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 					<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch
 				</span>
 				<span class="pub_info d-inline">
-					 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3565287.3617637
+					 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. Accepted as oral presentation. https://doi.org/10.1145/3565287.3617637
 				</span>
 				[<a href="files/negotiation_paper.pdf">Paper</a>] [<a href="files/REUNS 2023 .pptx">Slides</a>] [<a href="images/llm_nego.png">Poster</a>]
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
+### Thesis
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Developing Performant Models for Speech-to-Speech Translation Between English and Taiwanese Using Free and Publicly Available Data<br>
+			<span class="pub_authors d-lg-block">
+				<u>Eleanor Lin</u>.
+			</span>
+			<span class="pub_info d-inline">
+				 <i>(Undergraduate thesis in preparation)</i>
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+
+### Working Papers and Preprints
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Identifying the Relationship between Empathy and Code-switching in Speech.<br>
+			<span class="pub_authors d-lg-block">
+				Debasmita Bhattacharya*, Eleanor Lin*, Run Chen, Julia Hirschberg.
+			</span>
+			<span class="pub_info d-inline">
+				 <i>(Submitted to INTERSPEECH 2024; *DB and EL are equal contributors to this work and are designated as co-first authors.)</i>
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Detecting Empathy in Speech<br>
+			<span class="pub_authors d-lg-block">
+				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Jun Shin, Julia Hirschberg.
+			</span>
+			<span class="pub_info d-inline">
+				 <i>(Submitted to INTERSPEECH 2024)</i>
+			</span>
 			</p>
 			</div>
 		</li>
