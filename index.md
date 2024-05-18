@@ -719,15 +719,15 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/wics.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/adi.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://cuwics.github.io/">Columbia University Women in Computer Science</a>, New York, NY<br>
+			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
-				<i>Community Committee Chair</i>, August 2022 - May 2023
+				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - December 2023
 			</span><br>
 			<span class="pub_info d-inline">
-				Organized activities focused on building a gender-diverse community of Columbia University computer science students, including an information session introducing the technical interview process, as well as social activities such as arts and crafts nights. Hosted weekly coffee chats to provide students with advising on computer science internships, research, and courses. 
+				Supported 2 Columbia University undergraduates majoring in computer science with one-on-one academic and preprofessional advising.
 			</span>
 			</p>
 			</div>
@@ -737,15 +737,15 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/adi.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/wics.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://www.adicu.com/mentorship">Columbia University Application Development Initiative</a>, New York, NY<br>
+			<a class="blue_link" href="https://cuwics.github.io/">Columbia University Women in Computer Science</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
-				<i>Mentor for Computer Science Mentorship Program</i>, October 2022 - December 2023
+				<i>Community Committee Chair</i>, August 2022 - May 2023
 			</span><br>
 			<span class="pub_info d-inline">
-				Currently supporting a Columbia University first-year undergraduate (and previously supported a second-year undergraduate) majoring in computer science with one-on-one academic and preprofessional advising.
+				Organized activities focused on building a gender-diverse community of Columbia University computer science students, including an information session introducing the technical interview process, as well as social activities such as arts and crafts nights. Hosted weekly coffee chats to provide students with advising on computer science internships, research, and courses. 
 			</span>
 			</p>
 			</div>
