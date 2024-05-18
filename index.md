@@ -135,7 +135,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 					Toward a Sociolinguistic Profile of Taiwanese Americans
 				</a><br>
 				<span class="pub_authors d-lg-block">
-					<u>Eleanor Lin.</u>
+					<u>Eleanor Lin</u>.
 				</span>
 				<span class="pub_info d-inline">
 					Emory Undergraduate Linguistics Conference, Online, April 2024. 
