@@ -567,7 +567,7 @@ assignments.
 			<img class="mr-3 img-thumbnail" src="images/cla.svg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			Columbia COMS3251: Computational Linear Algebra, New York, NY<br>
+			<a class="blue_link" href="https://www.cs.columbia.edu/~djhsu/coms3251-f22/">Columbia COMS3251: Computational Linear Algebra</a>, New York, NY<br>
 			<span class="pub_authors d-lg-block">
 				<i>Course Assistant</i>, September 2022 - December 2022
 			</span><br>
