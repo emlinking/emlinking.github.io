@@ -74,7 +74,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 				Developing Performant Models for Translating Spoken Taiwanese Into Spoken English Using Free and Publicly Available Resources<br>
 			<span class="pub_authors d-lg-block">
-				<u>Eleanor Lin.</u>
+				<u>Eleanor Lin</u>.
 			</span>
 			<span class="pub_info d-inline">
 				 Columbia University Program of Linguistics, April 2024. Undergraduate thesis.
