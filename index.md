@@ -355,7 +355,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 			<a class="blue_link" href="http://www.cs.columbia.edu/speech/index.cgi">Speech Lab</a>, Department of Computer Science, Columbia University, New York, NY<br>
 			<span class="pub_authors d-lg-block">
-				<i>Research Assistant</i>, January 2022 - Present | <i>Adviser:</i> Julia Hirschberg
+				<i>Research Assistant</i>, January 2022 - May 2024 | <i>Adviser:</i> Julia Hirschberg
 			</span><br>
 			<span class="pub_info d-inline">
 				 Investigated relationship between empathy and code-switching by detecting empathetic utterances
