@@ -435,7 +435,7 @@ in code-switched speech, using RoBERTa fine-tuned for empathy detection. Investi
 			</span><br>
 			<span class="pub_info d-inline">
 				 Identified communication strategies in collaborative learning dialogues by annotating speech acts
-and analyzing n-gram frequencies with R. Assisted with onboarding new research assistants. [<a href="https://github.com/emlinking/collaborative-learning.git">Code</a>]
+and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new research assistants. [<a href="https://github.com/emlinking/collaborative-learning.git">Code</a>]
 			</span>
 			</p>
 			</div>
