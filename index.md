@@ -31,7 +31,7 @@ I am an incoming [Computer Science and Engineering](https://cse.engin.umich.edu/
 				<a class="blue_link" href="https://www.cs.columbia.edu/speech/PaperFiles/2024/iwsds24_raswda_paper.pdf">RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialog Act Prediction in Conversation</a><br>
 			<span class="pub_authors d-lg-block">
 				Run Chen, <u>Eleanor Lin</u>, Shayan Hooshmand, Mariam Mustafa, Rose Sloan, Ritika Nandi, Alicia Yang, Andrea Lopez, Ansh Kothary,
-Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg
+Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
 				 <i>International Workshop on Spoken Dialogue
@@ -53,7 +53,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 					Toward a Better Understanding of the Emotional Dynamics of Negotiation with Large Language Models
 				</a><br> 
 				<span class="pub_authors d-lg-block">
-					<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch
+					<u>Eleanor Lin</u>, James Hale, and Jonathan Gratch.
 				</span>
 				<span class="pub_info d-inline">
 					 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. Accepted as oral presentation. https://doi.org/10.1145/3565287.3617637
@@ -74,10 +74,10 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 				Developing Performant Models for Speech-to-Speech Translation Between English and Taiwanese Using Free and Publicly Available Data<br>
 			<span class="pub_authors d-lg-block">
-				<u>Eleanor Lin</u>
+				<u>Eleanor Lin.</u>
 			</span>
 			<span class="pub_info d-inline">
-				 Undergraduate thesis.
+				 Columbia University Program of Linguistics, April 2024. Undergraduate thesis.
 			</span>
 				[<a href="files/thesis.pdf">Thesis</a>]
 			</p>
@@ -95,7 +95,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 				Identifying the Relationship between Empathy and Code-switching in Speech<br>
 			<span class="pub_authors d-lg-block">
-				Debasmita Bhattacharya*, Eleanor Lin*, Run Chen, and Julia Hirschberg
+				Debasmita Bhattacharya*, Eleanor Lin*, Run Chen, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
 				 <i>(Submitted to INTERSPEECH 2024; *DB and EL are equal contributors to this work and are designated as co-first authors.)</i>
@@ -113,7 +113,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 				Detecting Empathy in Speech<br>
 			<span class="pub_authors d-lg-block">
-				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Jun Shin, and Julia Hirschberg
+				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Jun Shin, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
 				 <i>(Submitted to INTERSPEECH 2024)</i>
@@ -135,7 +135,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 					Toward a Sociolinguistic Profile of Taiwanese Americans
 				</a><br>
 				<span class="pub_authors d-lg-block">
-					<u>Eleanor Lin</u>
+					<u>Eleanor Lin.</u>
 				</span>
 				<span class="pub_info d-inline">
 					Emory Undergraduate Linguistics Conference, Online, April 2024. 
@@ -157,7 +157,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 					Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
 				</a><br>
 				<span class="pub_authors d-lg-block">
-					<u>Eleanor Lin</u>, Ziyan Yang, and Vicente Ordóñez
+					<u>Eleanor Lin</u>, Ziyan Yang, and Vicente Ordóñez.
 				</span>
 				<span class="pub_info d-inline">
 					Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
