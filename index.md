@@ -552,7 +552,7 @@ assignments.
 				<i>Teaching Assistant</i>, September 2023 - December 2023
 			</span><br>
 			<span class="pub_info d-inline">
-				 Introduction to modern formal theories of syntax. Held office hours, take attendance, and grade
+				 Introduction to modern formal theories of syntax. Held office hours, took attendance, and graded
 assignments.
 			</span>
 			</p>
