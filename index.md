@@ -93,7 +93,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-				Identifying the Relationship between Empathy and Code-switching in Speech<br>
+				Switching Tongues, Sharing Hearts: Identifying the Relationship between Empathy and Code-switching in Speech<br>
 			<span class="pub_authors d-lg-block">
 				Debasmita Bhattacharya*, Eleanor Lin*, Run Chen, and Julia Hirschberg.
 			</span>
