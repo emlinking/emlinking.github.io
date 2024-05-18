@@ -11,7 +11,9 @@ title: Eleanor M. Lin
  
 <h3 id="name" class="p-0 m-0 mb-1">Eleanor M. Lin</h3>
 
-Email: elealin@umich.edu | [GitHub](https://github.com/emlinking) | [LinkedIn](https://www.linkedin.com/in/eleanor-lin)
+Email: elealin@umich.edu<br>
+[GitHub](https://github.com/emlinking)<br>
+[LinkedIn](https://www.linkedin.com/in/eleanor-lin)
 
 I am an incoming [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan, starting in August 2024. I obtained my B.A. at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_December_2023.pdf).
 
@@ -26,7 +28,7 @@ I am an incoming [Computer Science and Engineering](https://cse.engin.umich.edu/
 			<img class="mr-3 img-thumbnail" src="images/swda.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-				RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialog Act Prediction in Conversation<br>
+				<a class="blue_link" href="https://www.cs.columbia.edu/speech/PaperFiles/2024/iwsds24_raswda_paper.pdf">RASwDA: Re-Aligned Switchboard Dialog Act Corpus for Dialog Act Prediction in Conversation</a><br>
 			<span class="pub_authors d-lg-block">
 				Run Chen, <u>Eleanor Lin</u>, Shayan Hooshmand, Mariam Mustafa, Rose Sloan, Ritika Nandi, Alicia Yang, Andrea Lopez, Ansh Kothary,
 Isaac Suh, Catherine Lyu, Eric Chen, Sophia Horng, and Julia Hirschberg.
@@ -75,8 +77,9 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 				<u>Eleanor Lin</u>.
 			</span>
 			<span class="pub_info d-inline">
-				 <i>(Undergraduate thesis in preparation)</i>
+				 Undergraduate thesis.
 			</span>
+				[<a href="files/thesis.pdf">Thesis</a>]
 			</p>
 			</div>
 		</li>
@@ -90,7 +93,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-				Identifying the Relationship between Empathy and Code-switching in Speech.<br>
+				Identifying the Relationship between Empathy and Code-switching in Speech<br>
 			<span class="pub_authors d-lg-block">
 				Debasmita Bhattacharya*, Eleanor Lin*, Run Chen, Julia Hirschberg.
 			</span>
@@ -128,6 +131,28 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
+				<a class="blue_link" href="files/eulc_slides.pdf">
+					Toward a Sociolinguistic Profile of Taiwanese Americans
+				</a><br>
+				<span class="pub_authors d-lg-block">
+					<u>Lin, E.</u>
+				</span>
+				<span class="pub_info d-inline">
+					Emory Undergraduate Linguistics Conference, Online, April 2024. 
+				</span>
+				[<a href="files/Toward_a_Sociolinguistic_Profile_of_Taiwanese_Americans.pdf">Paper</a>] 
+				[<a href="files/eulc_slides.pdf">Slides</a>] 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
 				<a class="blue_link" href="files/dreu_report.pdf">
 					Text-Based Prediction of Visual Complexity: How Does What We See Influence What We Say?
 				</a><br>
@@ -149,6 +174,78 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 </div><!-- /.blog-post -->
 
 ## Grants, Awards, and Academic Honors
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Departmental Honors in Linguistics, Columbia University Program of Linguistics, 2024<br>
+				<span class="pub_info d-inline">
+					<i>One of two graduating linguistics majors selected for honors, on the basis of the quality of the senior thesis.</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Computer Science Scholarship Award, Columbia University Department of Computer Science, 2024<br>
+				<span class="pub_info d-inline">
+					<i>One of two B.A. candidates selected annually on the basis of “outstanding academic achievement in computer science."</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+	<li class="media">
+		<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="100" alt="">
+		<div class="media-body">
+			<p class="my-auto">
+				Fulbright-Hays Group Projects Abroad (GPA) Fellowship for Advanced Overseas Chinese Language Study, American Councils for International Education, 2024<br>
+				<span class="pub_info d-inline">
+					<i>Awarded $7000 to cover cost of attendance for Taiwan Intensive Summer Language Program.</i>
+				</span>
+			</p>
+		</div>
+	</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+	<li class="media">
+		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+		<div class="media-body">
+			<p class="my-auto">
+			Dean's List, Columbia College, 2020 - 2024 (Expected)
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+	<li class="media">
+		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+		<div class="media-body">
+			<p class="my-auto">
+			Work Exemption Program Grant, Columbia University, 2024<br>
+				<span class="pub_info d-inline">
+					<i>Recipient of $1,820 Columbia Grant to support pursuit of research in the Columbia Speech Lab.</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
@@ -224,21 +321,6 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="100" alt="">
-		<div class="media-body">
-			<p class="my-auto">
-				Fulbright-Hays Group Projects Abroad (GPA) Fellowship for Advanced Overseas Chinese Language Study (Declined), American Councils for International Education, 2023<br>
-				<span class="pub_info d-inline">
-					<i>Awarded $7915 to cover cost of attendance for Taiwan Intensive Summer Language Program.</i>
-				</span>
-			</p>
-		</div>
-	</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-	<li class="media">
 		<img class="mr-3 img-thumbnail" src="images/dreu.jpg" width="100" alt="">
 		<div class="media-body">
 			<p class="my-auto">
@@ -246,18 +328,6 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<span class="pub_info d-inline">
 				<i>Awarded $7000 to conduct research at Rice University with Professor Vicente Ordóñez Román.</i>
 			</span>
-			</p>
-		</div>
-	</li>
-</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-<ul class="list-unstyled">
-	<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
-		<div class="media-body">
-			<p class="my-auto">
-			Dean's List, Columbia College, 2022
 			</p>
 		</div>
 	</li>
@@ -275,30 +345,6 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 	</li>
 </ul>
 </div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
-		<div class="media-body">
-			<p class="my-auto">
-			Dean's List, Columbia College, 2021
-			</p>
-		</div>
-	</li>
-</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
-		<div class="media-body">
-			<p class="my-auto">
-			Dean's List, Columbia College, 2020
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
 
 ## Research Experience
 <div class="blog-post subtext p-2">
@@ -312,8 +358,8 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 				<i>Research Assistant</i>, January 2022 - Present | <i>Adviser:</i> Julia Hirschberg
 			</span><br>
 			<span class="pub_info d-inline">
-				 Investigate relationship between empathy and code-switching by detecting empathetic utterances
-in code-switched speech, using RoBERTa fine-tuned for empathy detection. Investigate relationship between dialog acts and code-switching, by adapting dialog act annotation scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus, using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empathetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
+				 Investigated relationship between empathy and code-switching by detecting empathetic utterances
+in code-switched speech, using RoBERTa fine-tuned for empathy detection. Investigated relationship between dialog acts and code-switching, by adapting dialog act annotation scheme to better suit, and annotating dialog acts on, code-switched speech. Wrote script to fine-tune Wav2Vec2 for end-to-end dialog act classification on Switchboard Dialog Act Corpus, using PyTorch and Hugging Face Transformers. Contributed to multimodal, multilingual empathetic speech corpus by processing video, audio, text with Jupyter Notebooks, Praat, FFmpeg.
 			</span>
 			</p>
 			</div>
@@ -401,25 +447,6 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/sociolinguistic-profile.png" width="100" alt="">
-			<div class="media-body">
-			<p class="my-auto">
-			LING UN3102: Endangered Languages in the Global City, "Toward a Sociolinguistic Profile of Taiwanese Americans" (Final Project)<br>
-			<span class="pub_authors d-lg-block">
-				December 2023
-			</span><br>
-			<span class="pub_info d-inline">
-				In order to understand Taiwanese Americans’ relationships with both Mandarin and languages other than Mandarin, this study works toward a sociolinguistic profile of Taiwanese Americans by reporting the results of interviewing and/or surveying 33 Taiwanese Americans.
-			</span>
-   				[<a href="files/Toward_a_Sociolinguistic_Profile_of_Taiwanese_Americans.pdf">Paper</a>]
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/captioning.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
@@ -498,6 +525,25 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/cla.svg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			Columbia COMS4771: Machine Learning, New York, NY<br>
+			<span class="pub_authors d-lg-block">
+				<i>Course Assistant</i>, January 2024 - May 2024
+			</span><br>
+			<span class="pub_info d-inline">
+				 Introduction to machine learning. Held office hours, took attendance, monitored class discussion board, and graded
+assignments.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/syntax.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
@@ -506,7 +552,7 @@ and analyzing n-gram frequencies with R. Assisted with onboarding new research a
 				<i>Teaching Assistant</i>, September 2023 - December 2023
 			</span><br>
 			<span class="pub_info d-inline">
-				 Introduction to modern formal theories of syntax. Hold office hours, take attendance, and grade
+				 Introduction to modern formal theories of syntax. Held office hours, take attendance, and grade
 assignments.
 			</span>
 			</p>
@@ -706,9 +752,6 @@ followers.
 		</li>
 	</ul>
 </div><!-- /.blog-post -->
-
-## Creative Writing
-I write the occasional <a href="https://emlinking.github.io/writing">poem</a>.
 
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
