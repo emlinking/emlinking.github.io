@@ -98,7 +98,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 				Debasmita Bhattacharya*, Eleanor Lin*, Run Chen, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
-				 <i>(Submitted to INTERSPEECH 2024; *DB and EL are equal contributors to this work and are designated as co-first authors.)</i>
+				 Accepted to INTERSPEECH 2024; *DB and EL are equal contributors to this work and are designated as co-first authors.
 			</span>
 			</p>
 			</div>
@@ -116,7 +116,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Jun Shin, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
-				 <i>(Submitted to INTERSPEECH 2024)</i>
+				Accepted to INTERSPEECH 2024.
 			</span>
 			</p>
 			</div>
@@ -125,6 +125,24 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 </div><!-- /.blog-post -->
 
 ## Presentations
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+					Instilling discipline in LLM-based negotiating agents<br>
+				<span class="pub_authors d-lg-block">
+					James Hale, <u>Eleanor Lin</u>, Ian Wu, Zora Rong, Kushal Chawla, Gale Lucas, and Jonathan Gratch.
+				</span>
+				<span class="pub_info d-inline">
+					Annual Conference of the International Association for Conflict Management (IACM), Singapore, June 2024. Symposium talk.
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
@@ -138,7 +156,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 					<u>Eleanor Lin</u>.
 				</span>
 				<span class="pub_info d-inline">
-					Emory Undergraduate Linguistics Conference, Online, April 2024. 
+					Emory Undergraduate Linguistics Conference, Online, April 2024. Oral presentation.
 				</span>
 				[<a href="files/Toward_a_Sociolinguistic_Profile_of_Taiwanese_Americans.pdf">Working Paper</a>] 
 				[<a href="files/eulc_slides.pdf">Slides</a>] 
@@ -160,7 +178,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 					<u>Eleanor Lin</u>, Ziyan Yang, and Vicente Ordóñez.
 				</span>
 				<span class="pub_info d-inline">
-					Columbia University Undergraduate Research Symposium, New York, NY, October 2022. 
+					Columbia University Undergraduate Research Symposium, New York, NY, October 2022. Poster presentation.
 				</span>
 				[<a href="files/dreu_report.pdf">Report</a>] 
 				[<a href="files/dreu_slides.pdf">Slides</a>] 
