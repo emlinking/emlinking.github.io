@@ -11,11 +11,12 @@ title: Eleanor M. Lin
  
 <h3 id="name" class="p-0 m-0 mb-1">Eleanor M. Lin</h3>
 
-Email: elealin@umich.edu<br>
+elealin@umich.edu<br>
 [GitHub](https://github.com/emlinking)<br>
+[Google Scholar](https://scholar.google.com/citations?user=Jidk2_wAAAAJ&hl=en)<br>
 [LinkedIn](https://www.linkedin.com/in/eleanor-lin)
 
-I am an incoming [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan, starting in August 2024. I obtained my B.A. at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). Recently, I researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV.pdf).
+I am a first-year [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan, advised by [David Jurgens](https://jurgens.people.si.umich.edu/). I obtained my BA at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV.pdf).
 
 * TOC
 {:toc}
@@ -95,7 +96,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 				Switching Tongues, Sharing Hearts: Identifying the Relationship between Empathy and Code-switching in Speech<br>
 			<span class="pub_authors d-lg-block">
-				Debasmita Bhattacharya*, Eleanor Lin*, Run Chen, and Julia Hirschberg.
+				Debasmita Bhattacharya*, <u>Eleanor Lin</u>*, Run Chen, and Julia Hirschberg.
 			</span>
 			<span class="pub_info d-inline">
 				 Accepted to INTERSPEECH 2024; *DB and EL are equal contributors to this work and are designated as co-first authors.
@@ -195,7 +196,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				Departmental Honors in Linguistics, Columbia University Program of Linguistics, 2024<br>
@@ -210,7 +211,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				Computer Science Scholarship Award, Columbia University Department of Computer Science, 2024<br>
@@ -225,7 +226,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="100" alt="">
+		<img class="mr-3 img-thumbnail" src="images/acie.jpg" width="50" alt="">
 		<div class="media-body">
 			<p class="my-auto">
 				Fulbright-Hays Group Projects Abroad (GPA) Fellowship for Advanced Overseas Chinese Language Study, American Councils for International Education, 2024<br>
@@ -240,7 +241,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="50" alt="">
 		<div class="media-body">
 			<p class="my-auto">
 			Dean's List, Columbia College, Expected 2020 - 2024
@@ -252,7 +253,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="100" alt="">
+		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="50" alt="">
 		<div class="media-body">
 			<p class="my-auto">
 			Work Exemption Program Grant, Columbia University, 2024<br>
@@ -267,7 +268,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/cra-ura.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/cra-ura.png" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				<a class="blue_link" href="https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/">Outstanding Undergraduate Researcher Award - Honorable Mention</a>, Computing Research Association, 2023<br>
@@ -281,7 +282,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/pbk.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/pbk.png" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				<a class="blue_link" href="https://www.college.columbia.edu/news/class-2024-junior-phi-beta-kappa-initiates-announced">Junior Phi Beta Kappa</a>, Columbia University, 2023<br>
@@ -296,7 +297,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/UPEkey_portrait_no_bk-768x1024.png" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/UPEkey_portrait_no_bk-768x1024.png" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				<a class="blue_link" href="https://upe.acm.org/">Upsilon Pi Epsilon (International Honor Society for the Computing and Information Disciplines)</a> Member, Columbia University, 2023<br>
@@ -311,7 +312,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				REU Travel Grant, National Science Foundation, 2023<br>
@@ -327,7 +328,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				NSF Research Experiences for Undergraduates Intern, University of Southern California, 2023
@@ -339,7 +340,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-		<img class="mr-3 img-thumbnail" src="images/dreu.jpg" width="100" alt="">
+		<img class="mr-3 img-thumbnail" src="images/dreu.jpg" width="50" alt="">
 		<div class="media-body">
 			<p class="my-auto">
 				Distributed Research Experiences for Undergraduates Intern, Computing Research Association, 2022<br>
@@ -354,7 +355,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 	<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/google.svg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/google.svg" width="50" alt="">
 		<div class="media-body">
 			<p class="my-auto">
 				<a class="blue_link" href="https://research.google/outreach/csrmp/recipients/?category=2021">Computer Science Research Mentorship Program Scholar</a>, Google, 2021
