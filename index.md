@@ -369,6 +369,24 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/um_cse.svg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://blablablab.si.umich.edu/">Blablablab</a>, Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>Graduate Student Research Assistant</i>, August 2024 - Present | <i>Adviser:</i> David Jurgens
+			</span><br>
+			<span class="pub_info d-inline">
+				 Conduct research at the intersection of NLP, computational social science, and sociolinguistics.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/speech_lab.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
