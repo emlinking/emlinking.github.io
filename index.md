@@ -26,6 +26,44 @@ I am a first-year [Computer Science and Engineering](https://cse.engin.umich.edu
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Switching Tongues, Sharing Hearts: Identifying the Relationship between Empathy and Code-switching in Speech<br>
+			<span class="pub_authors d-lg-block">
+				Debasmita Bhattacharya*, <u>Eleanor Lin</u>*, Run Chen, and Julia Hirschberg.
+			</span>
+			<span class="pub_info d-inline">
+				<i>INTERSPEECH 2024.</i> Kos Island, Greece. *DB and EL are equal contributors to this work and are designated as co-first authors.
+			</span>
+				[<a href="https://www.isca-archive.org/interspeech_2024/bhattacharya24_interspeech.pdf">Paper</a>] 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Detecting Empathy in Speech<br>
+			<span class="pub_authors d-lg-block">
+				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Jun Shin, and Julia Hirschberg.
+			</span>
+			<span class="pub_info d-inline">
+				<i>INTERSPEECH 2024.</i> Kos Island, Greece.
+			</span>
+				[<a href="https://www.isca-archive.org/interspeech_2024/chen24f_interspeech.html">Paper</a>] 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/swda.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
@@ -88,42 +126,6 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 </div><!-- /.blog-post -->
 
 ### Working Papers and Preprints
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
-			<div class="media-body">
-			<p class="my-auto">
-				Switching Tongues, Sharing Hearts: Identifying the Relationship between Empathy and Code-switching in Speech<br>
-			<span class="pub_authors d-lg-block">
-				Debasmita Bhattacharya*, <u>Eleanor Lin</u>*, Run Chen, and Julia Hirschberg.
-			</span>
-			<span class="pub_info d-inline">
-				 Accepted to INTERSPEECH 2024; *DB and EL are equal contributors to this work and are designated as co-first authors.
-			</span>
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/empathy.png" width="100" alt="">
-			<div class="media-body">
-			<p class="my-auto">
-				Detecting Empathy in Speech<br>
-			<span class="pub_authors d-lg-block">
-				Run Chen, Haozhe Chen, Anushka Kulkarni, <u>Eleanor Lin</u>, Linda Pang, Divya Tadimeti, Jun Shin, and Julia Hirschberg.
-			</span>
-			<span class="pub_info d-inline">
-				Accepted to INTERSPEECH 2024.
-			</span>
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
 
 ## Presentations
 <div class="blog-post subtext p-2">
