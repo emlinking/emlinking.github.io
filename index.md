@@ -795,7 +795,7 @@ followers.
 			<img class="mr-3 img-thumbnail" src="images/Michigan-Engineering Vertical-REV-BLUE-RGB.svg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			<a class="blue_link" href="https://www.college.columbia.edu/alumni/odyssey-mentoring?src=vol">University of Michigan Computer Science and Engineering Division</a>, Virtual<br>
+			<a class="blue_link" href="https://cse.engin.umich.edu/">University of Michigan Computer Science and Engineering Division</a>, Ann Arbor, MI<br>
 			<span class="pub_authors d-lg-block">
 				<i>Building Bridges in CSE PhD Studies Volunteer</i>, October 2024 - November 2024
 			</span><br>
