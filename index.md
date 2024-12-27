@@ -738,6 +738,24 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			Café con Ling, Virtual<br>
+			<span class="pub_authors d-lg-block">
+				<i>Mentor</i>, December 2024 - Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Mentor current undergraduates in the Columbia University Linguistics Program, through student-led mentoring program which provides by-appointment office hours.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/Michigan-Engineering Vertical-REV-BLUE-RGB.svg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
