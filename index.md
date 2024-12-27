@@ -231,7 +231,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 				Fulbright-Hays Group Projects Abroad (GPA) Fellowship for Advanced Overseas Chinese Language Study, American Councils for International Education, 2024<br>
 				<span class="pub_info d-inline">
-					<i>Awarded $7000 to cover cost of attendance for Taiwan Intensive Summer Language Program.</i>
+					<i>Awarded $7000 to cover cost of attendance for Taiwan Intensive Summer Language Program. Conducted post-program outreach: organized information session in partnership with Columbia University Undergraduate Global Engagement, presented study abroad opportunities to 27 students in 2 undergraduate Chinese language classes at the University of Michigan, authored blog post for American Councils' website.</i>
 				</span>
 			</p>
 		</div>
