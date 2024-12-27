@@ -738,6 +738,24 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/Michigan-Engineering Vertical-REV-BLUE-RGB.svg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://commonread.engin.umich.edu/cre-selection-committee/">University of Michigan College of Engineering</a>, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>Common Reading Experience Book Selection Committee Volunteer</i>, November 2024 - Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Review 2 books to facilitate the process of selecting a book for the University of Michigan College of Engineering's Common Reading Experience, which aims to foster community, non-technical skills, and curiosity among engineering students. Provide feedback via surveys and group discussion.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/um_cse.svg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
