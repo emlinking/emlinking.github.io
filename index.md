@@ -782,7 +782,25 @@ followers.
 				<i>Odyssey Mentoring Program Mentor</i>, October 2024 - December 2024
 			</span><br>
 			<span class="pub_info d-inline">
-				Mentor 1 Columbia College undergraduate through holistic discussion of academics, career paths, and personal goals.
+				Mentored 1 Columbia College undergraduate through holistic discussion of academics, career paths, and personal goals.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/Michigan-Engineering Vertical-REV-BLUE-RGB.svg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.college.columbia.edu/alumni/odyssey-mentoring?src=vol">University of Michigan Computer Science and Engineering Division</a>, Virtual<br>
+			<span class="pub_authors d-lg-block">
+				<i>Building Bridges in CSE PhD Studies Volunteer</i>, October 2024 - November 2024
+			</span><br>
+			<span class="pub_info d-inline">
+				Conducted outreach to underrepresented undergraduates by delivering talk introducing my research and the U-M CSE graduate program at Florida International University. Hosted one-on-one coffee chats with prospective computer science graduate school applicants.
 			</span>
 			</p>
 			</div>
