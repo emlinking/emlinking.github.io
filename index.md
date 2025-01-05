@@ -776,6 +776,24 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/um_lrc.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://lsa.umich.edu/lrc/translation/languagebank.html">University of Michigan Language Resource Center</a>, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>Language Bank Program Volunteer</i>, November 2024 - Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Translate documents from English to Mandarin Chinese for University of Michigan departments/schools and external non-profit organizations.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/um_cse.svg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
