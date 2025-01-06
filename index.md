@@ -639,7 +639,7 @@ moderated class discussion board, graded homework assignments, proctored final e
 	</ul>
 </div><!-- /.blog-post -->
 
-## Work Experience
+## Professional Experience
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
@@ -736,7 +736,7 @@ followers.
 	</ul>
 </div><!-- /.blog-post -->
 
-## Service
+## Extracurricular and Volunteer Experience
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
@@ -794,15 +794,33 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/gradswe.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://gradsweatum.wixsite.com/gradswe">University of Michigan Graduate Society of Women Engineers</a>, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>Outreach Volunteer</i>, August 2024 - Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Served on graduate school information panel sharing insights with undergraduates on applying to graduate school, finding undergraduate research opportunities, and developing mentoring relationships. Conducted K-12 outreach with Community Action Network by volunteering for museum visit serving children from under-resourced families in Washtenaw County.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/um_cse.svg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 			<a class="blue_link" href="https://cseg-michigan.github.io/">University of Michigan Computer Science and Engineering Graduate Students</a>, Ann Arbor, MI<br>
 			<span class="pub_authors d-lg-block">
-				<i>Student Application Support Program Volunteer</i>, November 2024
+				<i>Member</i>, August 2024 - Present
 			</span><br>
 			<span class="pub_info d-inline">
-				Advised computer science PhD applicant by providing detailed feedback on application materials, as well as general advice about the application process.
+				Advised computer science PhD applicant by providing detailed feedback on application materials, as well as general advice about the application process, through the Student Application Support Program. Hosted Tea Time social hour to build community among graduate students.
 			</span>
 			</p>
 			</div>
