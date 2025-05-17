@@ -131,6 +131,25 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="files/UMich_NLP_Day_Poster-2.pdf" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+					Investigating Code-Switching as a Cognitive Tool in Large Language Model Reasoning<br>
+				<span class="pub_authors d-lg-block">
+					<u>Eleanor Lin.</u>
+				</span>
+				<span class="pub_info d-inline">
+					NLP @ Michigan Day, Ann Arbor, MI, March 2025. Poster presentation.
+				</span>
+				[<a href="files/UMich_NLP_Day_Poster-2.pdf">Poster</a>] 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/llm_nego.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
