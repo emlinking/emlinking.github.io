@@ -16,7 +16,7 @@ elealin@umich.edu<br>
 [Google Scholar](https://scholar.google.com/citations?user=Jidk2_wAAAAJ&hl=en)<br>
 [LinkedIn](https://www.linkedin.com/in/eleanor-lin)
 
-I am a first-year [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan, advised by [David Jurgens](https://jurgens.people.si.umich.edu/). I obtained my BA at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_Updated_May_2025 (2).pdf).
+I am a first-year [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan, advised by [David Jurgens](https://jurgens.people.si.umich.edu/). I obtained my BA at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_Updated_June_2025 (2).pdf).
 
 * TOC
 {:toc}
@@ -214,6 +214,21 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 </div><!-- /.blog-post -->
 
 ## Grants, Awards, and Academic Honors
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="50" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Graduate Research Fellowship, National Science Foundation, 2025<br>
+				<span class="pub_info d-inline">
+					<i>Selected through competitive application process to receive 3 years of financial support toward graduate study (acceptance rate ~15%). 1500 students total were selected nationwide (with 10 selected specifically from the discipline of natural language processing).</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
