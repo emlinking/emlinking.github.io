@@ -774,6 +774,24 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/espa.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			Engaging Scientists in Policy and Advocacy, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>Secretary and Social Media Coordinator</i>, July 2025 - Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Keep accurate records to ensure continuity of ESPA's institutional memory, so that we can also continuously improve our initiatives. Ensure timely communication of relevant opportunities to members. Increase ESPA's public visibility, furthering our mission of fostering publicly engaged science and science communication. Foster useful collaborations and connections between ESPA and aligned organizations/individuals via social media.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
