@@ -516,7 +516,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 	</ul>
 </div><!-- /.blog-post -->
 
-## Projects
+## Course Projects
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
@@ -819,6 +819,24 @@ followers.
 			</span><br>
 			<span class="pub_info d-inline">
 				Mentor current undergraduates in the Columbia University Linguistics Program, through student-led mentoring program which provides by-appointment office hours.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/tasa.jpg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://www.facebook.com/tasaumich/">University of Michigan Taiwanese American Student Association</a>, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>Big/Little Mentorship Program Mentor</i>, September 2024 – April 2025
+			</span><br>
+			<span class="pub_info d-inline">
+				Mentored 1 current University of Michigan undergraduate, providing academic and career advice and participating in community-building activities.
 			</span>
 			</p>
 			</div>
