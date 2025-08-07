@@ -168,7 +168,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/complex_noncomplex1024_1.jpg" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/spoken_langs.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
 				<a class="blue_link" href="files/eulc_slides.pdf">
