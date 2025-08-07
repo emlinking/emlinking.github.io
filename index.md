@@ -828,6 +828,25 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/mtsa.jpeg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://sites.google.com/a/umich.edu/mtsa-wiki/home">Michigan Taiwanese Student Association </a>, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>Volunteer</i>, August 2024 – Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Build community among Taiwanese graduate students at the University of Michigan by assisting operations and providing transportation at
+monthly social events.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/tasa.jpg" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
