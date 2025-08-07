@@ -792,6 +792,24 @@ followers.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/mailab.jpeg" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			University of Michigan Artificial Intelligence Laboratory, Ann Arbor, MI<br>
+			<span class="pub_authors d-lg-block">
+				<i>AI Blog Editor</i>, August 2025 - Present
+			</span><br>
+			<span class="pub_info d-inline">
+				Create, edit, and proofread the Michigan AI blog, and encourage blog contributions from graduate students in the Michigan AI Lab.
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/espa.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
