@@ -232,6 +232,21 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/U-M_Logo-Hex.png" width="50" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Institutional Nominee for the Google PhD Fellowship Program, University of Michigan, 2025<br>
+				<span class="pub_info d-inline">
+					<i>One of up to 4 candidates from the University of Michigan selected through a competitive application process.</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
