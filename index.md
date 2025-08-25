@@ -18,10 +18,50 @@ elealin@umich.edu<br>
 [X](https://x.com/eleanormlin)<br>
 [Bluesky](https://bsky.app/profile/eleanormlin.bsky.social)
 
-I am a second-year [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan (matriculated Fall 2024), advised by [David Jurgens](https://jurgens.people.si.umich.edu/). I obtained my BA at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing (NLP), with a particular interest in both applying NLP to understand how multilingual people communicate, as well as building technologies that better serve multilinguals. At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching, empathy detection, and dialogue act modeling under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. Additionally, I wrote my senior thesis on low-resource speech-to-speech translation, and conducted sociolinguistic fieldwork and language documentation through my undergraduate coursework at Columbia. My work is supported by a National Science Foundation Graduate Research Fellowship. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_Updated_August_2025.pdf).
+I am a second-year [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan (matriculated Fall 2024), advised by [David Jurgens](https://jurgens.people.si.umich.edu/). I obtained my BA at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing (NLP), with a particular interest in both applying NLP to understand how multilingual people communicate, as well as building technologies that better serve multilinguals. My work is supported by a National Science Foundation Graduate Research Fellowship. 
+
+At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching, empathy detection, and dialogue act modeling under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. Additionally, I wrote my senior thesis on low-resource speech-to-speech translation, and conducted sociolinguistic fieldwork and language documentation through my undergraduate coursework at Columbia. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_Updated_August_2025.pdf).
 
 * TOC
 {:toc}
+
+## Education
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/U-M_Logo-Hex.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				University of Michigan, College of Engineering<br>
+			<span class="pub_authors d-lg-block">
+				Doctor of Philosophy, Computer Science & Engineering (GPA: 4.0/4.0)
+			</span>
+			<span class="pub_info d-inline">
+				Expected 2029
+			</span> 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/CC_logo_main_295c.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Columbia University, Columbia College<br>
+			<span class="pub_authors d-lg-block">
+				Bachelor of Arts, Computer Science & Linguistics, <em>Summa cum Laude</em> (GPA: 4.1/4.0) 
+			</span>
+			<span class="pub_info d-inline">
+				2024
+			</span> 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
 
 ## Publications
 ### Refereed Publications
@@ -769,6 +809,24 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/pageHeaderLogoImage_en_US.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+			<a class="blue_link" href="https://journals.library.columbia.edu/index.php/cusj/">Columbia Undergraduate Science Journal</a>, New York, NY<br>
+			<span class="pub_authors d-lg-block">
+				<i>Science Communicator</i>, July 2021
+			</span><br>
+			<span class="pub_info d-inline">
+				Refined science writing skills through workshops and peer-reviewing, culminating in publicaiton of scientific review article (~500 words) ``<a class="blue_link" href="https://journals.library.columbia.edu/index.php/cusj/blog/view/378">The Role of Technology in Preserving Linguistic Diversity</a>.''
+			</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/csr.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
@@ -1079,7 +1137,7 @@ monthly social events.
 </div><!-- /.blog-post -->
 
 ## Miscellaneous
-AKA 林書宜 (Lín Shū-yí / <a href="https://itaigi.tw/name/%E6%9E%97/%E6%9B%B8%E5%AE%9C">Lîm Su-gî</a>).
+AKA 林書宜 (Lín Shū-yí / <a href="https://itaigi.tw/name/%E6%9E%97/%E6%9B%B8%E5%AE%9C">Lîm Su-gî</a>). <a href="https://www.studyabroad.americancouncils.org/tislp">台灣暑期密集語言項目</a>畢業生.
 
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
