@@ -34,7 +34,7 @@ At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I resea
 			<p class="my-auto">
 				University of Michigan, College of Engineering<br>
 			<span class="pub_authors d-lg-block">
-				Doctor of Philosophy, Computer Science & Engineering (GPA: 4.0/4.0)
+				Doctor of Philosophy, Computer Science & Engineering (GPA: 4.0/4.0)<br>
 			</span>
 			<span class="pub_info d-inline">
 				Expected 2029
@@ -52,7 +52,7 @@ At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I resea
 			<p class="my-auto">
 				Columbia University, Columbia College<br>
 			<span class="pub_authors d-lg-block">
-				Bachelor of Arts, Computer Science & Linguistics, <em>Summa cum Laude</em> (GPA: 4.1/4.0) 
+				Bachelor of Arts, Computer Science & Linguistics, <em>Summa cum Laude</em> (GPA: 4.1/4.0)<br> 
 			</span>
 			<span class="pub_info d-inline">
 				2024
@@ -817,7 +817,7 @@ conducted background research, interviewed 6 sources, and wrote article. [<a cla
 				<i>Science Communicator</i>, July 2021
 			</span><br>
 			<span class="pub_info d-inline">
-				Refined science writing skills through workshops and peer-reviewing, culminating in publicaiton of scientific review article (~500 words) ``<a class="blue_link" href="https://journals.library.columbia.edu/index.php/cusj/blog/view/378">The Role of Technology in Preserving Linguistic Diversity</a>.''
+				Refined science writing skills through workshops and peer-reviewing, culminating in publication of scientific review article (~500 words) "<a class="blue_link" href="https://journals.library.columbia.edu/index.php/cusj/blog/view/378">The Role of Technology in Preserving Linguistic Diversity</a>."
 			</span>
 			</p>
 			</div>
