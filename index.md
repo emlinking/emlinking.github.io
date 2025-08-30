@@ -585,7 +585,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 				May 2025. Jung-Chun Liu, <u>Eleanor Lin</u>, Zichen Wang.
 			</span><br>
 			<span class="pub_info d-inline">
-				 We address the limitations of traditional benchmarks by introducing a new evaluation framework specifically designed to probe VLMs’ understanding of Newtonian mechanics, a fundamental component of intuitive physical reasoning.
+				 We address the limitations of traditional physical reasoning benchmarks for vision-language models (VLMs) by introducing a new evaluation framework specifically designed to probe VLMs’ understanding of Newtonian mechanics, a fundamental component of intuitive physical reasoning.
 			</span>
 			</p>
 			</div>
@@ -598,7 +598,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 			<img class="mr-3 img-thumbnail" src="images/reddit-logo-png_seeklogo-409489.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			CSE 598: Causality and Machine Learning, ``Thanks for saying thanks!'': Estimating Causal Effects of Positive Affirmations of Gratitude by TheGratitudeBot on Reddit<br>
+			CSE 598: Causality and Machine Learning, "Thanks for saying thanks!": Estimating Causal Effects of Positive Affirmations of Gratitude by TheGratitudeBot on Reddit<br>
 			<span class="pub_authors d-lg-block">
 				December 2024. <u>Eleanor Lin</u>, Yinuo (Nancy) Xu, Omkar Yadav.
 			</span><br>
