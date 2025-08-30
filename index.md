@@ -582,7 +582,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 			<p class="my-auto">
 			CSE 692: Advanced Artificial Intelligence, From Motion to Meaning: A Benchmark for Physical Reasoning Through Event Decomposition<br>
 			<span class="pub_authors d-lg-block">
-				May 2025. Jung-Chun Liu, <u>Eleanor Lin</u>, Zichen Wang.
+				May 2025. Jung-Chun Liu, <u>Eleanor Lin</u>, Zichen Wang. University of Michigan.
 			</span><br>
 			<span class="pub_info d-inline">
 				 We address the limitations of traditional physical reasoning benchmarks for vision-language models (VLMs) by introducing a new evaluation framework specifically designed to probe VLMs’ understanding of Newtonian mechanics, a fundamental component of intuitive physical reasoning.
@@ -600,7 +600,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 			<p class="my-auto">
 			CSE 598: Causality and Machine Learning, "Thanks for saying thanks!": Estimating Causal Effects of Positive Affirmations of Gratitude by TheGratitudeBot on Reddit<br>
 			<span class="pub_authors d-lg-block">
-				December 2024. <u>Eleanor Lin</u>, Yinuo (Nancy) Xu, Omkar Yadav.
+				December 2024. <u>Eleanor Lin</u>, Yinuo (Nancy) Xu, Omkar Yadav. University of Michigan.
 			</span><br>
 			<span class="pub_info d-inline">
 				 Investigated which linguistic properties of positive reinforcement messages are effective in encouraging prosocial behavior on Reddit. Estimated (conditional) average treatment effects of linguistic properties with <a href="https://aclanthology.org/2021.naacl-main.323/">TextCause</a> and explored treatment effect heterogeneity using causal forests.
@@ -618,7 +618,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 			<p class="my-auto">
 			CSE 593: Human-Computer Interaction, Improving Emotional Expressivity of Text-Based Communications on Touchscreen Mobile Phones<br>
 			<span class="pub_authors d-lg-block">
-				December 2024. Calvin Chan, Jeremy Huang, <u>Eleanor Lin</u>,  Rayhan Rashed, Anny Wu. (Authors listed in alphabetical order.)
+				December 2024. Calvin Chan, Jeremy Huang, <u>Eleanor Lin</u>,  Rayhan Rashed, Anny Wu. (Authors listed in alphabetical order.) University of Michigan.
 			</span><br>
 			<span class="pub_info d-inline">
 				 Iteratively designed text entry system integrating features to enable emotionally expressive communication, applying research and design practices and principles including literature review, contextual interviews, surveying, heuristic evaluation, quantitative evaluation, user testing, prototyping in Figma, statistical analysis, and usability principles.
@@ -636,7 +636,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 			<p class="my-auto">
 			LING GU4120: Language Documentation and Field Methods, Documenting the Sakha Language<br>
 			<span class="pub_authors d-lg-block">
-				January 2023 - May 2023. <u>Eleanor Lin</u>.
+				January 2023 - May 2023. <u>Eleanor Lin</u>. Columbia University.
 			</span><br>
 			<span class="pub_info d-inline">
 			Elucidated and documented the phonology, morphology, and syntax of the Sakha language by interviewing native speaker and analyzing collected transcriptions and audio recordings. 
