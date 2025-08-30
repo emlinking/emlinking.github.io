@@ -580,7 +580,7 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 			<img class="mr-3 img-thumbnail" src="images/wrong_reasoning_right_answer(1).png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			CSE 692: Advanced Artificial Intelligence, "From Motion to Meaning: A Benchmark for Physical Reasoning Through Event Decomposition"<br>
+			CSE 692: Advanced Artificial Intelligence, From Motion to Meaning: A Benchmark for Physical Reasoning Through Event Decomposition<br>
 			<span class="pub_authors d-lg-block">
 				May 2025. Jung-Chun Liu, <u>Eleanor Lin</u>, Zichen Wang.
 			</span><br>
@@ -613,10 +613,10 @@ and analyzing <i>n</i>-gram frequencies with R. Assisted with onboarding new res
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
-			<img class="mr-3 img-thumbnail" src="files/Final_Poster.pptx-2.pdf" width="100" alt="">
+			<img class="mr-3 img-thumbnail" src="images/describe.png" width="100" alt="">
 			<div class="media-body">
 			<p class="my-auto">
-			CSE 593: Human-Computer Interaction, Emotionally Expressive Text Entry System<br>
+			CSE 593: Human-Computer Interaction, Improving Emotional Expressivity of Text-Based Communications on Touchscreen Mobile Phones<br>
 			<span class="pub_authors d-lg-block">
 				December 2024. Calvin Chan, Jeremy Huang, <u>Eleanor Lin</u>,  Rayhan Rashed, Anny Wu. (Authors listed in alphabetical order.)
 			</span><br>
