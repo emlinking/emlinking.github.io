@@ -20,7 +20,7 @@ elealin@umich.edu<br>
 
 I am a second-year [Computer Science and Engineering](https://cse.engin.umich.edu/) PhD student at the University of Michigan (matriculated Fall 2024), advised by [David Jurgens](https://jurgens.people.si.umich.edu/). I obtained my BA at Columbia University, double-majoring in linguistics and computer science. I am primarily interested in natural language processing (NLP), with a particular interest in both applying NLP to understand how multilingual people communicate, as well as building technologies that better serve multilinguals. My work is supported by a National Science Foundation Graduate Research Fellowship. 
 
-At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching, empathy detection, and dialogue act modeling under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. Additionally, I wrote my senior thesis on low-resource speech-to-speech translation, and conducted sociolinguistic fieldwork and language documentation through my undergraduate coursework at Columbia. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_Updated_August_2025.pdf).
+At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I researched code-switching, empathy detection, and dialogue act modeling under the mentorship of Professor [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also researched the use of large language models for the study of negotiation at the University of Southern California's [Affective Computing Lab](https://emotions.ict.usc.edu/), where I was advised by Professor [Jonathan Gratch](https://people.ict.usc.edu/~gratch/). Previously, working with Professor [Vicente Ordóñez Román](https://www.cs.rice.edu/~vo9/) in the [Vision, Language, and Learning Lab](https://vislang.ai/) at Rice University, I investigated the relationship between images' visual complexity and image descriptions' linguistic complexity. Working with [Dr. Kate Moore](https://www.linkedin.com/in/kate-moore-644aab9) in the Corter Lab at Columbia's Teachers College, I have also researched communication patterns in collaborative learning. Additionally, I wrote my senior thesis on low-resource speech-to-speech translation, and conducted sociolinguistic fieldwork and language documentation through my undergraduate coursework at Columbia. You can find my curriculum vitae [here](files/Eleanor_Lin_CV_Updated_September_2025.pdf).
 
 * TOC
 {:toc}
@@ -37,8 +37,9 @@ At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I resea
 				Doctor of Philosophy, Computer Science & Engineering (GPA: 4.0/4.0)<br>
 			</span>
 			<span class="pub_info d-inline">
-				Expected 2029
+				Expected 2029<br>
 			</span> 
+				<u>Honors</u>: National Science Foundation Graduate Research Fellow, Institutional Nominee for the Google PhD Fellowship Program
 			</p>
 			</div>
 		</li>
@@ -55,8 +56,10 @@ At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I resea
 				Bachelor of Arts, Computer Science & Linguistics, <em>Summa cum Laude</em> (GPA: 4.1/4.0)<br> 
 			</span>
 			<span class="pub_info d-inline">
-				2024
+				2024<br>
 			</span> 
+				<u>Honors</u>: <i>Summa cum Laude</i>, Junior Phi Beta Kappa, Dean’s List, Departmental Honors in Linguistics, Computer Science Scholarship Award, Upsilon Pi Epsilon.<br>
+				<u>Thesis</u>: <a href="files/thesis.pdf">Developing Performant Models for Translating Spoken Taiwanese Into Spoken English Using Free and Publicly Available Resources</a>.
 			</p>
 			</div>
 		</li>
@@ -140,27 +143,6 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 					 In <i>The Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc ’23), October 23–26, 2023, Washington, DC, USA.</i> ACM, New York, NY, USA, 6 pages. Accepted as oral presentation. https://doi.org/10.1145/3565287.3617637
 				</span>
 				[<a href="files/negotiation_paper.pdf">Paper</a>] [<a href="files/REUNS 2023 .pptx">Slides</a>] [<a href="images/llm_nego.png">Poster</a>]
-			</p>
-			</div>
-		</li>
-	</ul>
-</div><!-- /.blog-post -->
-
-### Thesis
-<div class="blog-post subtext p-2">
-	<ul class="list-unstyled">
-		<li class="media">
-			<img class="mr-3 img-thumbnail" src="images/s2s.png" width="100" alt="">
-			<div class="media-body">
-			<p class="my-auto">
-				Developing Performant Models for Translating Spoken Taiwanese Into Spoken English Using Free and Publicly Available Resources<br>
-			<span class="pub_authors d-lg-block">
-				<u>Eleanor Lin</u>.
-			</span>
-			<span class="pub_info d-inline">
-				 Columbia University Program of Linguistics, April 2024. Undergraduate thesis.
-			</span>
-				[<a href="files/thesis.pdf">Thesis</a>]
 			</p>
 			</div>
 		</li>
