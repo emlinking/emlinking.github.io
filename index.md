@@ -76,7 +76,7 @@ At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I resea
 			<p class="my-auto">
 				Let’s Think 一步一步: A Cognitive Framework for Characterizing Code-Switching in LLM Reasoning<br>
 			<span class="pub_authors d-lg-block">
-				<u>Eleanor Lin</u>* and David Jurgens.
+				<u>Eleanor Lin</u> and David Jurgens.
 			</span>
 			<span class="pub_info d-inline">
 				<i>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: First Workshop on
@@ -180,7 +180,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 			<p class="my-auto">
 				Let’s Think 一步一步: A Cognitive Framework for Characterizing Code-Switching in LLM Reasoning<br>
 			<span class="pub_authors d-lg-block">
-				<u>Eleanor Lin</u>* and David Jurgens.
+				<u>Eleanor Lin</u> and David Jurgens.
 			</span>
 			<span class="pub_info d-inline">
 				<i>2025 Michigan AI Symposium.</i> Ann Arbor, MI.
