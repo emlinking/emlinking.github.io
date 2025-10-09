@@ -280,6 +280,21 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 <div class="blog-post subtext p-2">
 	<ul class="list-unstyled">
 		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/U-M_Logo-Hex.png" width="50" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Computer Science & Engineering Student Funding ($375), University of Michigan, 2025<br>
+				<span class="pub_info d-inline">
+					<i>Awarded $375 to cover the cost of registration for the NeurIPS 2025 conference.</i>
+				</span>
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
 			<img class="mr-3 img-thumbnail" src="images/nsf.jpg" width="50" alt="">
 			<div class="media-body">
 			<p class="my-auto">
@@ -358,7 +373,7 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 		<img class="mr-3 img-thumbnail" src="images/columbia.svg" width="50" alt="">
 		<div class="media-body">
 			<p class="my-auto">
-			Dean's List, Columbia College, Expected 2020 - 2024
+			Dean's List, Columbia College, 2020 - 2024
 			</p>
 			</div>
 		</li>
