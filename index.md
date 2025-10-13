@@ -82,7 +82,7 @@ At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I resea
 				<i>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: First Workshop on
 CogInterp: Interpreting Cognition in Deep Learning Models.</i> San Diego, CA.
 			</span>
-				[<a href="https://ai.engin.umich.edu/2025/09/30/understanding-how-large-language-models-harness-the-power-of-multilinguality-to-solve-problems/">Blog post</a>] 
+				[<a href="https://ai.engin.umich.edu/2025/09/30/understanding-how-large-language-models-harness-the-power-of-multilinguality-to-solve-problems/">Blog post</a>] [<a href="https://emlinking.github.io/files/45041 - Eleanor Lin - AI Symposium Poster - AI Symposium Poste.pdf">Poster</a>] 
 			</p>
 			</div>
 		</li>
@@ -183,9 +183,28 @@ Systems Technology.</i> Sapporo, Japan. Accepted as poster presentation.
 				<u>Eleanor Lin</u> and David Jurgens.
 			</span>
 			<span class="pub_info d-inline">
+				<i>2025 University of Michigan Annual Data Science \& AI Summit</i> Ann Arbor, MI.
+			</span>
+				[<a href="https://ai.engin.umich.edu/2025/09/30/understanding-how-large-language-models-harness-the-power-of-multilinguality-to-solve-problems/">Blog post</a>] [<a href="https://emlinking.github.io/files/45041 - Eleanor Lin - AI Symposium Poster - AI Symposium Poste.pdf">Poster</a>] 
+			</p>
+			</div>
+		</li>
+	</ul>
+</div><!-- /.blog-post -->
+<div class="blog-post subtext p-2">
+	<ul class="list-unstyled">
+		<li class="media">
+			<img class="mr-3 img-thumbnail" src="images/coef_plot-1.png" width="100" alt="">
+			<div class="media-body">
+			<p class="my-auto">
+				Let’s Think 一步一步: A Cognitive Framework for Characterizing Code-Switching in LLM Reasoning<br>
+			<span class="pub_authors d-lg-block">
+				<u>Eleanor Lin</u> and David Jurgens.
+			</span>
+			<span class="pub_info d-inline">
 				<i>2025 Michigan AI Symposium.</i> Ann Arbor, MI.
 			</span>
-				[<a href="https://ai.engin.umich.edu/2025/09/30/understanding-how-large-language-models-harness-the-power-of-multilinguality-to-solve-problems/">Blog post</a>] 
+				[<a href="https://ai.engin.umich.edu/2025/09/30/understanding-how-large-language-models-harness-the-power-of-multilinguality-to-solve-problems/">Blog post</a>] [<a href="https://emlinking.github.io/files/45041 - Eleanor Lin - AI Symposium Poster - AI Symposium Poste.pdf">Poster</a>] 
 			</p>
 			</div>
 		</li>
