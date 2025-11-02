@@ -1245,7 +1245,7 @@ monthly social events.
 </div><!-- /.blog-post -->
 
 ## Miscellaneous
-AKA 林書宜 (Lín Shū-yí / <a href="https://itaigi.tw/name/%E6%9E%97/%E6%9B%B8%E5%AE%9C">Lîm Su-gî</a>). <a href="https://www.studyabroad.americancouncils.org/tislp">台灣暑期密集語言項目</a>畢業生.
+AKA 林書宜 (Lín Shū-yí / <a href="https://itaigi.tw/name/%E6%9E%97/%E6%9B%B8%E5%AE%9C">Lîm Su-gî</a>). 客家媽媽的<a href="https://en.wiktionary.org/wiki/%E7%A1%AC%E9%A0%B8">硬頸</a>寶貝。<a href="https://www.studyabroad.americancouncils.org/tislp">台灣暑期密集語言項目</a>畢業生.
 
 <div style="text-align: right"> Website design inspired by <a href="https://jr4fs.github.io/">jr4fs.github.io</a>.</div>
 <br />
