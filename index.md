@@ -82,7 +82,7 @@ At Columbia's [Speech Lab](http://www.cs.columbia.edu/speech/index.cgi), I resea
 				<i>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: First Workshop on
 CogInterp: Interpreting Cognition in Deep Learning Models.</i> San Diego, CA.
 			</span>
-				[<a href="https://ai.engin.umich.edu/2025/09/30/understanding-how-large-language-models-harness-the-power-of-multilinguality-to-solve-problems/">Blog post</a>] [<a href="https://emlinking.github.io/files/45041 - Eleanor Lin - AI Symposium Poster - AI Symposium Poste.pdf">Poster</a>] 
+				[<a href="https://ai.engin.umich.edu/2025/09/30/understanding-how-large-language-models-harness-the-power-of-multilinguality-to-solve-problems/">Blog post</a>] [<a href="https://neurips.cc/virtual/2025/loc/san-diego/129721">Paper</a>] 
 			</p>
 			</div>
 		</li>
